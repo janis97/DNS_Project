@@ -1,0 +1,37 @@
+CREATE TABLE `domain` (
+  `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  `name` VARCHAR(150) NOT NULL,
+  PRIMARY KEY (`id`));
+
+
+CREATE TABLE `record` (
+  `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  `domain_id` INT UNSIGNED NOT NULL,
+  `name` VARCHAR(150) NOT NULL,
+  `ttl` VARCHAR(150) NOT NULL,
+  `type` VARCHAR(150) NOT NULL,
+  `value` VARCHAR(150) NOT NULL,
+  PRIMARY KEY (`id`));
+
+ALTER TABLE `record` 
+ADD CONSTRAINT `fk_domain_record`
+  FOREIGN KEY (`domain_id`)
+  REFERENCES `DNS_Project`.`domain` (`id`)
+  ON DELETE NO ACTION
+  ON UPDATE NO ACTION;
+
+
+CREATE TABLE `check` (
+  `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  `domain_id` INT UNSIGNED NOT NULL,
+  `name` VARCHAR(150) NOT NULL,
+  `date` DATETIME NOT NULL,
+  `check_ok` TINYINT(1) NOT NULL,
+  PRIMARY KEY (`id`));
+
+ALTER TABLE `check`
+ADD CONSTRAINT `fk_domain_check`
+  FOREIGN KEY (`domain_id`)
+  REFERENCES `DNS_Project`.`domain` (`id`)
+  ON DELETE NO ACTION
+  ON UPDATE NO ACTION;
