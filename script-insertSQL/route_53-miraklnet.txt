@@ -1,0 +1,1827 @@
+1001pharmacies-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+1001pharmacies-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+10800	3600	IN	A	52.50.50.1
+32seven-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+32seven-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+390506578d825038a074d96084ebae62	10800	IN	CNAME	2528e11e8a77c54d1e881db806d6b4b39d4d86e9.comodoca.com.
+433faa40fd1123c660f1a8eeaeacf679	10800	IN	CNAME	064b6b5440fb7d91b46038f5a06dcec6fc61daf9.comodoca.com.
+666-test-batch	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+666-test	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+accor-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+accor-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+accountmgmt-test-docker-batch	3600	IN	A	104.155.86.91
+accountmgmt-test-docker	3600	IN	A	104.155.86.91
+ach-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ach-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ach-preprod-batch	86400	AWS	ALIAS	A dualstack.auchan-preprod-batch-1967342382.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ach-preprod	86400	AWS	ALIAS	A dualstack.auchan-preprod-mp-2061043288.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ach-prod-batch	86400	AWS	ALIAS	A dualstack.auchan-prod-batch-274673100.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ach-prod	86400	AWS	ALIAS	A dualstack.auchan-prod-mp-665224302.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ach-recette-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ach-recette	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+akeneo-demo-test-docker-batch	3600	IN	A	104.155.86.91
+akeneo-demo-test-docker	3600	IN	A	104.155.86.91
+akeneo-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+akeneo-dev-batch.mirakl.net	3600	IN	CNAME	gateway
+akeneo-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+akeneo-enterprise-mongo	3600	IN	A	104.155.87.174
+akeneo-enterprise	3600	IN	A	104.155.87.174
+akeneo-mirakl-test-docker-batch	3600	IN	A	104.155.86.91
+akeneo-mirakl-test-docker	3600	IN	A	104.155.86.91
+akeneo-mongo	3600	IN	A	104.155.87.174
+akeneo-php-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+akeneo-php-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+akeneo	3600	IN	A	104.155.87.174
+akeneo1-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+akeneo1-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+akeneo2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+akeneo2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+akeneo3-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+akeneo3-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+akn-1-6-entreprise-recette-docker-batch	3600	IN	A	104.155.86.91
+akn-1-6-entreprise-recette-docker	3600	IN	A	104.155.86.91
+alaqa-test-docker-batch	3600	IN	A	104.155.86.91
+alaqa-test-docker	3600	IN	A	104.155.86.91
+alban-test-docker-batch	3600	IN	A	104.155.86.91
+alban-test-docker	3600	IN	A	104.155.86.91
+all-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+all-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+alltricks-preprod-batch	86400	AWS	ALIAS	A alltricks-preprod-batch-1021245829.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+alltricks-preprod-batch1	3600	IN	A	34.253.120.21
+alltricks-preprod-sql1	3600	IN	A	34.253.153.77
+alltricks-preprod-sql2	3600	IN	A	52.214.16.92
+alltricks-preprod-web1	3600	IN	A	52.215.91.29
+alltricks-preprod-web2	3600	IN	A	34.249.74.238
+alltricks-preprod	86400	AWS	ALIAS	A alltricks-preprod-mp-1885176792.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+alltricks-prod-batch	86400	AWS	ALIAS	A alltricks-prod-batch-1333924821.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+alltricks-prod-batch1	3600	IN	A	34.250.51.73
+alltricks-prod-sql1	3600	IN	A	34.253.65.116
+alltricks-prod-sql2	3600	IN	A	34.251.129.40
+alltricks-prod-web1	3600	IN	A	52.48.89.34
+alltricks-prod-web2	3600	IN	A	34.251.251.218
+alltricks-prod	86400	AWS	ALIAS	A alltricks-prod-mp-1985835385.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+analytics	3600	IN	A	178.33.182.40
+aniel-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+aniel-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+animalis-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+animalis-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+animalis-preprod-batch	86400	AWS	ALIAS	A animalis-preprod-batch-1924659613.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+animalis-preprod-batch1	3600	IN	A	52.214.139.75
+animalis-preprod-sql1	3600	IN	A	52.209.166.246
+animalis-preprod-sql2	3600	IN	A	52.213.115.215
+animalis-preprod-web1	3600	IN	A	52.214.68.164
+animalis-preprod-web2	3600	IN	A	52.214.138.79
+animalis-preprod	86400	AWS	ALIAS	A animalis-preprod-mp-1142270360.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+animalis-prod-batch	86400	AWS	ALIAS	A animalis-prod-batch-520644998.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+animalis-prod-batch1	3600	IN	A	52.31.242.17
+animalis-prod-sql1	3600	IN	A	52.212.92.186
+animalis-prod-sql2	3600	IN	A	52.210.53.8
+animalis-prod-web1	3600	IN	A	52.51.255.175
+animalis-prod-web2	3600	IN	A	52.211.176.211
+animalis-prod	86400	AWS	ALIAS	A animalis-prod-mp-804326640.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+anna-demo-docker-batch	3600	IN	A	104.155.86.91
+anna-demo-docker	3600	IN	A	104.155.86.91
+anna2-demo-docker-batch	3600	IN	A	104.155.86.91
+anna2-demo-docker	3600	IN	A	104.155.86.91
+antoine2-test-batch1	3600	IN	A	40.113.157.172
+antoine2-test-sql1	3600	IN	A	40.113.153.122
+antoine2-test-sql2	3600	IN	A	40.113.154.113
+antoine2-test-web1	3600	IN	A	40.113.153.226
+antoine2-test-web2	3600	IN	A	40.113.159.137
+antoine50-test-docker-batch	3600	IN	A	104.155.86.91
+antoine50-test-docker	3600	IN	A	104.155.86.91
+antonio-demo-docker-batch	3600	IN	A	104.155.86.91
+antonio-demo-docker	3600	IN	A	104.155.86.91
+antonio-test-docker-batch	3600	IN	A	104.155.86.91
+antonio-test-docker	3600	IN	A	104.155.86.91
+apa-demo-docker-batch	3600	IN	A	104.155.86.91
+apa-demo-docker	3600	IN	A	104.155.86.91
+api-doc	10800	IN	CNAME	gateway
+arrow-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+arrow-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+artifactory	60	IN	A	52.50.171.159
+ateliersdart-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ateliersdart-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+atl-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+atl-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+atlasformen-preprod-batch	86400	AWS	ALIAS	A dualstack.atlasformen-preprod-batch-1130930058.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+atlasformen-preprod-batch1	3600	IN	A	52.31.3.70
+atlasformen-preprod-sql1	3600	IN	A	52.30.189.244
+atlasformen-preprod-sql2	3600	IN	A	52.30.100.198
+atlasformen-preprod-web1	3600	IN	A	52.30.227.167
+atlasformen-preprod-web2	3600	IN	A	52.16.122.134
+atlasformen-preprod	86400	AWS	ALIAS	A dualstack.atlasformen-preprod-mp-401137459.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+atlasformen-prod-batch	86400	AWS	ALIAS	A dualstack.atlasformen-prod-batch-1577749028.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+atlasformen-prod-batch1	3600	IN	A	52.30.208.22
+atlasformen-prod-sql1	3600	IN	A	52.18.107.64
+atlasformen-prod-sql2	3600	IN	A	52.16.159.206
+atlasformen-prod-web1	3600	IN	A	52.30.217.230
+atlasformen-prod-web2	3600	IN	A	52.30.137.122
+atlasformen-prod	86400	AWS	ALIAS	A dualstack.atlasformen-prod-mp-2066781792.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+atlassian	3600	IN	A	52.50.100.91
+auchan-preprod-batch	86400	AWS	ALIAS	A auchan-preprod-batch-1967342382.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+auchan-preprod-batch1	3600	IN	A	34.251.213.169
+auchan-preprod-sql1	3600	IN	A	34.251.12.124
+auchan-preprod-sql2	3600	IN	A	34.251.93.147
+auchan-preprod-web1	3600	IN	A	34.251.127.64
+auchan-preprod-web2	3600	IN	A	34.248.89.60
+auchan-preprod	86400	AWS	ALIAS	A auchan-preprod-mp-2061043288.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+auchan-prod-batch	86400	AWS	ALIAS	A auchan-prod-batch-274673100.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+auchan-prod-batch1	3600	IN	A	52.211.210.7
+auchan-prod-sql1	3600	IN	A	52.212.9.140
+auchan-prod-sql2	3600	IN	A	52.214.200.36
+auchan-prod-web1	3600	IN	A	52.211.40.82
+auchan-prod-web2	3600	IN	A	52.210.7.176
+auchan-prod	86400	AWS	ALIAS	A auchan-prod-mp-665224302.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+audrey-drt-prod-docker-batch	3600	IN	A	104.155.86.91
+audrey-drt-prod-docker	3600	IN	A	104.155.86.91
+auth	10800	IN	CNAME	gateway
+avo-ms-5131-test-docker-batch	3600	IN	A	104.155.86.91
+avo-ms-5131-test-docker	3600	IN	A	104.155.86.91
+avo-ms-5284-test-docker-batch	3600	IN	A	104.155.86.91
+avo-ms-5284-test-docker	3600	IN	A	104.155.86.91
+avo-ms-5860-test-docker-batch	3600	IN	A	104.155.86.91
+avo-ms-5860-test-docker	3600	IN	A	104.155.86.91
+avo-ms5837-test-docker-batch	3600	IN	A	104.155.86.91
+avo-ms5837-test-docker	3600	IN	A	104.155.86.91
+avo-ms7209-test-docker-batch	3600	IN	A	104.155.86.91
+avo-ms7209-test-docker	3600	IN	A	104.155.86.91
+avo-ms7751-test-docker-batch	3600	IN	A	104.155.86.91
+avo-ms7751-test-docker	3600	IN	A	104.155.86.91
+aws-test	10800	IN	CNAME	ec2-54-79-42-253.ap-southeast-2.compute.amazonaws.com.
+aws-tools	10800	IN	A	54.206.25.226
+b324-test-batch	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+b324-test	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+b3242-test-batch	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+b3242-test	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+b3243-test-batch	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+b3243-test	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+babywise-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+babywise-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+baz-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+baz-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bby-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bby-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bby-ort-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bby-ort	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bby-preprod-batch	86400	AWS	ALIAS	A dualstack.bby-preprod-batch-1690184120.us-east-1.elb.amazonaws.com. Z35SXDOTRQ7X7K false
+bby-preprod-batch1	3600	IN	A	52.7.242.110
+bby-preprod-sql1	3600	IN	A	52.4.51.11
+bby-preprod-sql2	3600	IN	A	54.173.210.92
+bby-preprod-web1	3600	IN	A	54.85.81.144
+bby-preprod-web2	3600	IN	A	52.7.249.67
+bby-preprod	86400	AWS	ALIAS	A dualstack.bby-preprod-mp-2015094288.us-east-1.elb.amazonaws.com. Z35SXDOTRQ7X7K false
+bby-prod-batch	86400	AWS	ALIAS	A dualstack.bby-prod-batch-185156097.us-east-1.elb.amazonaws.com. Z35SXDOTRQ7X7K false
+bby-prod-batch1	3600	IN	A	52.1.139.94
+bby-prod-sql1	3600	IN	A	54.173.158.179
+bby-prod-sql2	3600	IN	A	52.91.181.215
+bby-prod-web1	3600	IN	A	52.22.97.65
+bby-prod-web2	3600	IN	A	52.4.236.151
+bby-prod	86400	AWS	ALIAS	A dualstack.bby-prod-mp-1752220924.us-east-1.elb.amazonaws.com. Z35SXDOTRQ7X7K false
+bby-qa-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bby-qa	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bby-uat-batch	3600	IN	CNAME	bby-preprod-batch.mirakl.net
+bby-uat	3600	IN	CNAME	bby-preprod.mirakl.net
+bby1-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bby1-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bby2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bby2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bby3-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bby3-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bby4-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bby4-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bcc-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bcc-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ben-test6-connectors	3600	IN	A	52.18.237.225
+ben1933-test-docker-batch	3600	IN	A	104.155.86.91
+ben1933-test-docker	3600	IN	A	104.155.86.91
+bentest-test-batch	60	IN	A	35.186.204.97
+benv4-test-batch	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+benv4-test	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bestbuyftp-dev	3600	IN	A	52.7.94.17
+bestbuyftp-prod	3600	IN	A	54.84.119.47
+bgt-dev-batch	10800	IN	CNAME	gateway
+bgt-dev	10800	IN	CNAME	gateway
+bgt-test-batch	10800	IN	CNAME	gateway
+bgt-test	10800	IN	CNAME	gateway
+bgt-test2-batch	10800	IN	CNAME	gateway
+bgt-test2	10800	IN	CNAME	gateway
+bgt-test3-batch	10800	IN	CNAME	gateway
+bgt-test3	10800	IN	CNAME	gateway
+bi	10800	IN	CNAME	gateway
+bigbrother	3600	IN	A	104.155.90.120
+bikegroup-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bikegroup-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bla-vacuum-test-docker-batch	3600	IN	A	104.155.86.91
+bla-vacuum-test-docker	3600	IN	A	104.155.86.91
+blah-test-batch	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blah-test	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bleubonheur-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bleubonheur-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bleubonheur-preprod-batch	86400	AWS	ALIAS	A dualstack.bleubonheur-preprod-batch-1505880697.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bleubonheur-preprod-batch1	3600	IN	A	52.51.70.239
+bleubonheur-preprod-sql1	3600	IN	A	52.48.133.207
+bleubonheur-preprod-sql2	3600	IN	A	34.248.176.105
+bleubonheur-preprod-web1	3600	IN	A	52.19.141.33
+bleubonheur-preprod-web2	3600	IN	A	52.17.129.55
+bleubonheur-preprod	86400	AWS	ALIAS	A dualstack.bleubonheur-preprod-mp-2036157307.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bleubonheur-prod-batch	86400	AWS	ALIAS	A dualstack.bleubonheur-prod-batch-2021551286.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bleubonheur-prod-batch1	3600	IN	A	52.51.7.222
+bleubonheur-prod-sql1	3600	IN	A	52.51.7.182
+bleubonheur-prod-sql2	3600	IN	A	52.49.231.23
+bleubonheur-prod-web1	3600	IN	A	52.50.81.207
+bleubonheur-prod-web2	3600	IN	A	52.48.23.247
+bleubonheur-prod	86400	AWS	ALIAS	A dualstack.bleubonheur-prod-mp-2104444772.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blg-dev2-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blg-dev2	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blg-preprod-batch	86400	AWS	ALIAS	A dualstack.blg-preprod-batch-1098420074.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blg-preprod-batch1	3600	IN	A	54.76.0.46
+blg-preprod-sql1	3600	IN	A	52.31.72.61
+blg-preprod-sql2	3600	IN	A	54.77.192.96
+blg-preprod-web1	3600	IN	A	52.18.134.43
+blg-preprod-web2	3600	IN	A	54.72.238.135
+blg-preprod	86400	AWS	ALIAS	A dualstack.blg-preprod-mp-417960282.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blg-prod-batch	86400	AWS	ALIAS	A dualstack.blg-prod-batch-199544529.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blg-prod-batch1	3600	IN	A	52.19.210.176
+blg-prod-sql1	3600	IN	A	52.49.109.196
+blg-prod-sql2	3600	IN	A	52.19.200.178
+blg-prod-web1	3600	IN	A	52.16.254.235
+blg-prod-web2	3600	IN	A	54.77.214.52
+blg-prod	86400	AWS	ALIAS	A dualstack.blg-prod-mp-1466129544.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blg-recette-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blg-recette	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blg2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blg2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blokker-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blokker-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blokker-prod-batch	86400	AWS	ALIAS	A blokker-prod-batch-1820782438.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blokker-prod-batch1	3600	IN	A	52.212.122.21
+blokker-prod-sql1	3600	IN	A	52.209.80.220
+blokker-prod-sql2	3600	IN	A	52.17.58.55
+blokker-prod-web1	3600	IN	A	52.212.124.51
+blokker-prod-web2	3600	IN	A	52.212.116.52
+blokker-prod	86400	AWS	ALIAS	A blokker-prod-mp-910455073.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blokker-test-batch	86400	AWS	ALIAS	A dualstack.kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blokker-test	86400	AWS	ALIAS	A dualstack.kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blokker2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+blokker2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+brandalley-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+brandalley-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bts-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bts-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bts-prod-batch	86400	AWS	ALIAS	A dualstack.bts-prod-batch-728331986.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bts-prod-batch1	3600	IN	A	54.76.164.77
+bts-prod-sql1	3600	IN	A	52.210.157.135
+bts-prod-sql2	3600	IN	A	54.171.91.185
+bts-prod-test-docker-batch	3600	IN	A	104.155.86.91
+bts-prod-test-docker	3600	IN	A	104.155.86.91
+bts-prod-web1	3600	IN	A	54.72.156.179
+bts-prod-web2	3600	IN	A	54.72.188.25
+bts-prod	86400	AWS	ALIAS	A dualstack.bts-prod-mp-209241418.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bts2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bts2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bugbash3-test-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+bugbash3-test	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cadeaux-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cadeaux-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cadeaux-prod-batch	86400	AWS	ALIAS	A cadeaux-prod-batch-979278057.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cadeaux-prod-batch1	3600	IN	A	34.252.246.242
+cadeaux-prod-sql1	3600	IN	A	34.249.29.4
+cadeaux-prod-sql2	3600	IN	A	34.251.117.209
+cadeaux-prod-web1	3600	IN	A	34.248.92.206
+cadeaux-prod-web2	3600	IN	A	34.252.245.185
+cadeaux-prod	86400	AWS	ALIAS	A cadeaux-prod-mp-106766850.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+camif-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+camif-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+camif-preprod-batch	86400	AWS	ALIAS	A dualstack.camif-preprod-batch-1419480262.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+camif-preprod-batch1	3600	IN	A	54.72.43.196
+camif-preprod-sql1	3600	IN	A	52.19.213.87
+camif-preprod-sql2	3600	IN	A	52.48.102.172
+camif-preprod-web1	3600	IN	A	54.72.44.148
+camif-preprod-web2	3600	IN	A	52.16.197.250
+camif-preprod	86400	AWS	ALIAS	A dualstack.camif-preprod-mp-1621088921.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+camif-prod-batch	86400	AWS	ALIAS	A dualstack.camif-prod-batch-445719057.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+camif-prod-batch1	3600	IN	A	52.30.212.0
+camif-prod-sql1	3600	IN	A	52.31.201.77
+camif-prod-sql2	3600	IN	A	52.209.30.209
+camif-prod-web1	3600	IN	A	52.30.26.193
+camif-prod-web2	3600	IN	A	52.30.39.188
+camif-prod	86400	AWS	ALIAS	A dualstack.camif-prod-mp-896909311.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+car1-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+car1-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+carrefourbelgium-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+carrefourbelgium-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+carrefourbr-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+carrefourbr-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+carrefourbr-preprod-batch	86400	AWS	ALIAS	A carrefourbr-preprod-batch-1060813981.sa-east-1.elb.amazonaws.com. Z2P70J7HTTTPLU false
+carrefourbr-preprod-batch1	3600	IN	A	52.67.132.118
+carrefourbr-preprod-sql1	3600	IN	A	52.67.171.156
+carrefourbr-preprod-sql2	3600	IN	A	52.67.138.56
+carrefourbr-preprod-web1	3600	IN	A	52.67.117.140
+carrefourbr-preprod-web2	3600	IN	A	52.67.172.42
+carrefourbr-preprod	86400	AWS	ALIAS	A carrefourbr-preprod-mp-1292805609.sa-east-1.elb.amazonaws.com. Z2P70J7HTTTPLU false
+carrefourbr-prod-batch	3600	IN	A	191.234.180.22
+carrefourbr-prod	3600	IN	A	191.234.180.22
+carrefourbr2-prod-batch	3600	IN	A	191.234.180.22
+carrefourbr2-prod-batch1	3600	IN	A	191.235.82.141
+carrefourbr2-prod-haproxy1	3600	IN	A	191.234.180.22
+carrefourbr2-prod-sql1	3600	IN	A	191.235.80.156
+carrefourbr2-prod-sql2	3600	IN	A	191.234.182.72
+carrefourbr2-prod-web1	3600	IN	A	191.235.82.194
+carrefourbr2-prod-web2	3600	IN	A	191.235.85.27
+carrefourbr2-prod	3600	IN	A	191.234.180.22
+carrefoures-preprod-batch	86400	AWS	ALIAS	A dualstack.carrefoures-preprod-batch-234461155.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+carrefoures-preprod-batch1	3600	IN	A	52.17.23.72
+carrefoures-preprod-sql1	3600	IN	A	52.18.219.238
+carrefoures-preprod-sql2	3600	IN	A	52.19.35.249
+carrefoures-preprod-web1	3600	IN	A	52.17.219.55
+carrefoures-preprod-web2	3600	IN	A	52.18.35.98
+carrefoures-preprod	86400	AWS	ALIAS	A dualstack.carrefoures-preprod-mp-1156995622.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+carrefoures-prod-batch	86400	AWS	ALIAS	A dualstack.carrefoures-prod-batch-1096710103.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+carrefoures-prod-batch1	3600	IN	A	52.18.37.67
+carrefoures-prod-sql1	3600	IN	A	52.215.3.11
+carrefoures-prod-sql2	3600	IN	A	34.250.248.45
+carrefoures-prod-web1	3600	IN	A	52.18.235.123
+carrefoures-prod-web2	3600	IN	A	52.18.232.146
+carrefoures-prod	86400	AWS	ALIAS	A dualstack.carrefoures-prod-mp-109565307.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+carrefourpl-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+carrefourpl-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+carrefourpl-prod-batch	86400	AWS	ALIAS	A carrefourpl-prod-batch-785154165.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+carrefourpl-prod-batch1	3600	IN	A	52.211.5.140
+carrefourpl-prod-sql1	3600	IN	A	52.30.160.47
+carrefourpl-prod-sql2	3600	IN	A	52.210.255.83
+carrefourpl-prod-web1	3600	IN	A	52.208.186.51
+carrefourpl-prod-web2	3600	IN	A	52.209.3.164
+carrefourpl-prod	86400	AWS	ALIAS	A carrefourpl-prod-mp-1259551045.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+carrefourpl2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+carrefourpl2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+casadellibro-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+casadellibro-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+casadellibro-preprod-batch	86400	AWS	ALIAS	A dualstack.casadellibro-preprod-batch-1893045440.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+casadellibro-preprod-batch1	3600	IN	A	52.51.155.169
+casadellibro-preprod-sql1	3600	IN	A	52.51.54.250
+casadellibro-preprod-sql2	3600	IN	A	52.209.213.135
+casadellibro-preprod-web1	3600	IN	A	52.50.189.215
+casadellibro-preprod-web2	3600	IN	A	52.51.133.33
+casadellibro-preprod	86400	AWS	ALIAS	A dualstack.casadellibro-preprod-mp-619314986.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+casadellibro-prod-batch	86400	AWS	ALIAS	A dualstack.casadellibro-prod-batch-1081251265.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+casadellibro-prod-batch1	3600	IN	A	52.19.239.110
+casadellibro-prod-sql1	3600	IN	A	52.30.55.174
+casadellibro-prod-sql2	3600	IN	A	52.30.214.209
+casadellibro-prod-web1	3600	IN	A	52.31.191.219
+casadellibro-prod-web2	3600	IN	A	52.50.15.43
+casadellibro-prod	86400	AWS	ALIAS	A dualstack.casadellibro-prod-mp-399701410.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+catch-dev-batch	7200	IN	A	52.65.15.165
+catch-dev	3600	IN	A	52.65.15.165
+catch-prod-batch	86400	AWS	ALIAS	A catch-prod-batch-267283031.ap-southeast-2.elb.amazonaws.com. Z1GM3OXH4ZPM65 false
+catch-prod-batch1	3600	IN	A	52.63.136.218
+catch-prod-sql1	3600	IN	A	52.64.127.10
+catch-prod-sql2	3600	IN	A	52.64.12.231
+catch-prod-web1	3600	IN	A	52.65.152.104
+catch-prod-web2	3600	IN	A	52.63.16.122
+catch-prod	86400	AWS	ALIAS	A catch-prod-mp-1223509552.ap-southeast-2.elb.amazonaws.com. Z1GM3OXH4ZPM65 false
+channel-advisor-preprod-web1	3600	IN	A	52.17.73.109
+channel-advisor-preprod-web2	3600	IN	A	52.16.128.37
+channel-advisor-preprod	86400	AWS	ALIAS	A dualstack.channel-advisor-prod-elb-2023456192.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+channel-advisor-prod-web1	3600	IN	A	52.18.238.252
+channel-advisor-prod-web2	3600	IN	A	52.17.87.185
+channel-advisor-prod	86400	AWS	ALIAS	A dualstack.channel-advisor-prod-elb-2023456192.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+channel-advisor-test-batch	3600	IN	CNAME	gateway.mirakl.net
+channel-advisor-test	3600	IN	CNAME	gateway
+channel-advisor	3600	IN	A	104.155.19.200
+charts.bi	300	IN	CNAME	shizuoka-85805.herokussl.com
+chaussea-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+chaussea-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+chr-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+chr-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+chr-preprod-batch	86400	AWS	ALIAS	A chr-preprod-batch-537673411.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+chr-preprod-batch1	3600	IN	A	34.253.125.36
+chr-preprod-sql1	3600	IN	A	34.248.64.229
+chr-preprod-sql2	3600	IN	A	34.253.114.141
+chr-preprod-web1	3600	IN	A	34.250.98.43
+chr-preprod-web2	3600	IN	A	34.252.122.131
+chr-preprod	86400	AWS	ALIAS	A chr-preprod-mp-1713740941.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+chr-prod-batch	86400	AWS	ALIAS	A dualstack.chr-prod-batch-657234459.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+chr-prod-batch1	3600	IN	A	52.17.187.147
+chr-prod-sql1	3600	IN	A	52.16.206.34
+chr-prod-sql2	3600	IN	A	52.17.155.205
+chr-prod-web1	3600	IN	A	52.17.176.212
+chr-prod-web2	3600	IN	A	52.16.132.14
+chr-prod	86400	AWS	ALIAS	A dualstack.chr-prod-mp-220638017.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+christianlacroix-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+christianlacroix-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ci	3600	IN	A	104.155.82.7
+clientsuccess-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+clientsuccess-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+clientsuccess2-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+clientsuccess2-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+clientsuccess3-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+clientsuccess3-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+clientsuccess4-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+clientsuccess4-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cloud	10800	IN	CNAME	gateway
+cne-dev-batch	10800	IN	CNAME	condenast3-preprod-batch
+cne-dev	10800	IN	CNAME	condenast3-preprod
+cne-test-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cne-test	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cne2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cne2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cne5-dev-batch	10800	IN	CNAME	gateway
+cne5-dev	10800	IN	CNAME	gateway
+cne6-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cne6-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cnf-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cnf-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cnf-preprod-batch	86400	AWS	ALIAS	A dualstack.cnf-preprod-batch-921084216.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cnf-preprod-batch1	3600	IN	A	52.48.89.100
+cnf-preprod-sql1	3600	IN	A	52.51.106.201
+cnf-preprod-sql2	3600	IN	A	52.51.102.161
+cnf-preprod-web1	3600	IN	A	52.30.98.133
+cnf-preprod-web2	3600	IN	A	52.48.73.5
+cnf-preprod	86400	AWS	ALIAS	A dualstack.cnf-preprod-mp-737698736.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cnf-recette-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cnf-recette	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cnf2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cnf2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cnf3-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cnf3-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cnf4-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+cnf4-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+colorz-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+colorz-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+condenast-preprod-batch	86400	AWS	ALIAS	A dualstack.condenast-preprod-batch-1404834724.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+condenast-preprod-batch1	3600	IN	A	52.19.136.113
+condenast-preprod-sql1	3600	IN	A	52.51.22.14
+condenast-preprod-sql2	3600	IN	A	52.208.87.209
+condenast-preprod-web1	3600	IN	A	52.17.35.19
+condenast-preprod-web2	3600	IN	A	52.30.85.114
+condenast-preprod	86400	AWS	ALIAS	A dualstack.condenast-preprod-mp-1252730025.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+condenast-prod-batch	86400	AWS	ALIAS	A dualstack.condenast-prod-batch-1151015950.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+condenast-prod-batch1	3600	IN	A	52.50.46.201
+condenast-prod-sql1	3600	IN	A	52.50.28.75
+condenast-prod-sql2	3600	IN	A	52.17.70.231
+condenast-prod-web1	3600	IN	A	52.50.105.37
+condenast-prod-web2	3600	IN	A	52.30.232.167
+condenast-prod	86400	AWS	ALIAS	A dualstack.condenast-prod-mp-613822074.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+condenast2-preprod-batch	86400	AWS	ALIAS	A condenast2-preprod-batch-1552357359.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+condenast2-preprod-batch1	3600	IN	A	52.210.98.246
+condenast2-preprod-sql1	3600	IN	A	52.18.21.142
+condenast2-preprod-sql2	3600	IN	A	52.210.89.151
+condenast2-preprod-web1	3600	IN	A	52.210.112.195
+condenast2-preprod-web2	3600	IN	A	52.210.50.138
+condenast2-preprod	86400	AWS	ALIAS	A condenast2-preprod-mp-1791428351.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+condenast3-preprod-batch	86400	AWS	ALIAS	A condenast3-preprod-batch-2047213484.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+condenast3-preprod-batch1	3600	IN	A	52.214.5.62
+condenast3-preprod-sql1	3600	IN	A	52.212.243.107
+condenast3-preprod-sql2	3600	IN	A	52.214.76.126
+condenast3-preprod-web1	3600	IN	A	52.214.40.164
+condenast3-preprod-web2	3600	IN	A	52.209.146.203
+condenast3-preprod	86400	AWS	ALIAS	A condenast3-preprod-mp-1857949233.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+configture-test	3600	IN	A	54.76.250.173
+confluence-sandbox	3600	IN	CNAME	gateway
+confluence	3600	IN	CNAME	gateway
+conforama-prod-batch	86400	AWS	ALIAS	A dualstack.conforama-prod-batch-1185270213.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+conforama-prod-batch1	3600	IN	A	52.16.46.3
+conforama-prod-sql1	3600	IN	A	52.215.253.107
+conforama-prod-sql2	3600	IN	A	34.248.201.43
+conforama-prod-web1	3600	IN	A	52.208.239.206
+conforama-prod-web2	3600	IN	A	52.16.46.138
+conforama-prod	86400	AWS	ALIAS	A dualstack.conforama-prod-mp-1416947087.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+connectors-integration	3600	IN	A	52.18.237.225
+conradb2b-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+conradb2b-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+conradb2b-preprod-batch	86400	AWS	ALIAS	A conradb2b-preprod-batch-276206811.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+conradb2b-preprod-batch1	3600	IN	A	34.251.34.34
+conradb2b-preprod-sql1	3600	IN	A	34.250.162.29
+conradb2b-preprod-sql2	3600	IN	A	34.251.236.241
+conradb2b-preprod-web1	3600	IN	A	34.251.186.142
+conradb2b-preprod-web2	3600	IN	A	34.249.204.143
+conradb2b-preprod	86400	AWS	ALIAS	A conradb2b-preprod-mp-1114856245.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+conradb2b-prod-batch	86400	AWS	ALIAS	A conradb2b-prod-batch-2013655399.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+conradb2b-prod-batch1	3600	IN	A	34.248.6.127
+conradb2b-prod-sql1	3600	IN	A	34.248.56.96
+conradb2b-prod-sql2	3600	IN	A	34.248.246.87
+conradb2b-prod-web1	3600	IN	A	34.249.117.27
+conradb2b-prod-web2	3600	IN	A	34.249.98.89
+conradb2b-prod	86400	AWS	ALIAS	A conradb2b-prod-mp-1144718968.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+coolshop-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+coolshop-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+coolshop-preprod-batch	86400	AWS	ALIAS	A dualstack.coolshop-preprod-batch-125709783.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+coolshop-preprod-batch1	3600	IN	A	52.209.186.245
+coolshop-preprod-sql1	3600	IN	A	52.208.66.114
+coolshop-preprod-sql2	3600	IN	A	52.19.63.146
+coolshop-preprod-web1	3600	IN	A	52.209.176.44
+coolshop-preprod-web2	3600	IN	A	52.208.139.150
+coolshop-preprod	86400	AWS	ALIAS	A dualstack.coolshop-preprod-mp-2024284856.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+coolshop-prod-batch	86400	AWS	ALIAS	A dualstack.coolshop-prod-batch-2062262774.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+coolshop-prod-batch1	3600	IN	A	52.16.189.114
+coolshop-prod-sql1	3600	IN	A	52.209.18.146
+coolshop-prod-sql2	3600	IN	A	52.208.251.202
+coolshop-prod-web1	3600	IN	A	52.209.128.208
+coolshop-prod-web2	3600	IN	A	52.50.1.149
+coolshop-prod	86400	AWS	ALIAS	A dualstack.coolshop-prod-mp-338982750.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+creavea-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+creavea-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+creavea-prod-batch	86400	AWS	ALIAS	A creavea-prod-batch-1858985206.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+creavea-prod-batch1	3600	IN	A	52.214.145.209
+creavea-prod-sql1	3600	IN	A	52.214.157.172
+creavea-prod-sql2	3600	IN	A	52.214.100.153
+creavea-prod-web1	3600	IN	A	34.252.193.103
+creavea-prod-web2	3600	IN	A	52.214.123.91
+creavea-prod	86400	AWS	ALIAS	A creavea-prod-mp-34967686.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+crowd	60	IN	A	52.50.100.91
+dam0-dev	3600	IN	A	34.249.208.50
+dam1-dev	3600	IN	A	34.249.209.91
+datawords-in-context-test-docker-batch	3600	IN	A	104.155.86.91
+datawords-in-context-test-docker	3600	IN	A	104.155.86.91
+datawords-test-docker-batch	3600	IN	A	104.155.86.91
+datawords-test-docker	3600	IN	A	104.155.86.91
+dem9	3600	IN	CNAME	gateway
+demo-akeneo-test-docker-batch	3600	IN	A	104.155.86.91
+demo-akeneo-test-docker	3600	IN	A	104.155.86.91
+demo-batch	10800	IN	A	107.178.250.127
+demo-dataset-test-docker-batch	3600	IN	A	104.155.86.91
+demo-dataset-test-docker	3600	IN	A	104.155.86.91
+demo-demo	3600	IN	A	107.178.242.70
+demo.magento	3600	IN	CNAME	magento
+demo	10800	IN	A	107.178.242.70
+demo10-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo10-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo10-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo10	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo2-batch	10800	IN	CNAME	gateway
+demo2-demo	3600	IN	CNAME	gateway
+demo2	10800	IN	CNAME	gateway
+demo3-batch	10800	IN	CNAME	gateway
+demo3-demo	3600	IN	CNAME	gateway
+demo3	10800	IN	CNAME	gateway
+demo4-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo4-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo4-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo4	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo5-batch	10800	IN	CNAME	gateway
+demo5-demo	3600	IN	CNAME	gateway
+demo5	10800	IN	CNAME	gateway
+demo6-batch	3600	IN	A	54.210.90.233
+demo6	3600	IN	A	54.210.90.233
+demo8-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo8-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo8-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo8	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo9-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo9-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo9-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demo9	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+demoak-connectors	3600	IN	A	52.18.237.225
+demomag-connectors	3600	IN	A	52.18.237.225
+dev-batch	10800	IN	CNAME	gateway
+dev-info	3600	IN	A	34.249.2.157
+dev.magento	3600	IN	CNAME	magento
+dev	10800	IN	CNAME	gateway
+developer	10800	IN	CNAME	gateway
+distriartisan-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+distriartisan-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+distriartisan-prod-batch	86400	AWS	ALIAS	A distriartisan-prod-batch-1858840752.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+distriartisan-prod-batch1	3600	IN	A	34.248.180.205
+distriartisan-prod-sql1	3600	IN	A	54.72.171.175
+distriartisan-prod-sql2	3600	IN	A	34.252.80.187
+distriartisan-prod-web1	3600	IN	A	34.252.6.224
+distriartisan-prod-web2	3600	IN	A	34.252.82.84
+distriartisan-prod	86400	AWS	ALIAS	A distriartisan-prod-mp-921443566.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+dlm-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+dlm-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+dlm-preprod-batch	86400	AWS	ALIAS	A dualstack.dlm-preprod-batch-787986344.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+dlm-preprod-batch1	3600	IN	A	52.48.11.238
+dlm-preprod-sql1	3600	IN	A	52.48.165.165
+dlm-preprod-sql2	3600	IN	A	52.49.57.106
+dlm-preprod-web1	3600	IN	A	52.49.25.153
+dlm-preprod-web2	3600	IN	A	52.16.187.227
+dlm-preprod	86400	AWS	ALIAS	A dualstack.dlm-preprod-mp-888199076.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+dlm-prod-batch	86400	AWS	ALIAS	A dualstack.dlm-prod-batch-1942895496.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+dlm-prod-batch1	3600	IN	A	52.49.156.243
+dlm-prod-sql1	3600	IN	A	52.49.160.42
+dlm-prod-sql2	3600	IN	A	52.49.118.59
+dlm-prod-web1	3600	IN	A	52.49.123.57
+dlm-prod-web2	3600	IN	A	52.49.59.206
+dlm-prod	86400	AWS	ALIAS	A dualstack.dlm-prod-mp-595685693.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+dlm-recette-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+dlm-recette	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+doc-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+doc-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+doc-prod-batch	86400	AWS	ALIAS	A dualstack.doc-prod-batch-428551738.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+doc-prod-batch1	3600	IN	A	54.77.113.102
+doc-prod-sql1	3600	IN	A	54.77.120.123
+doc-prod-sql2	3600	IN	A	52.19.214.36
+doc-prod-web1	3600	IN	A	52.16.118.164
+doc-prod-web2	3600	IN	A	52.19.27.197
+doc-prod	86400	AWS	ALIAS	A dualstack.doc-prod-mp-281565386.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+doc-recette-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+doc-recette	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+doc-test	300	IN	A	52.90.141.51
+docker	3600	IN	A	130.211.55.109
+dockercluster-log0	3600	IN	A	104.155.93.186
+dockercluster-manager0	3600	IN	A	104.155.27.164
+dockercluster-manager1	3600	IN	A	146.148.126.131
+dockercluster-manager2	3600	IN	A	104.155.73.93
+dockercluster-node0	3600	IN	A	104.155.68.87
+dockercluster-node1	3600	IN	A	104.155.43.225
+dockercluster-node2	3600	IN	A	104.155.66.86
+drt-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+drt-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+drt-dev2-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+drt-dev2	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+drt-preprod-batch	86400	AWS	ALIAS	A dualstack.drt-preprod-batch-1504290209.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+drt-preprod-batch1	3600	IN	A	52.18.175.136
+drt-preprod-sql1	3600	IN	A	52.19.236.157
+drt-preprod-sql2	3600	IN	A	52.16.157.101
+drt-preprod-web1	3600	IN	A	52.19.120.96
+drt-preprod-web2	3600	IN	A	52.19.119.58
+drt-preprod	86400	AWS	ALIAS	A dualstack.drt-preprod-mp-1215104817.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+drt-prod-batch	86400	AWS	ALIAS	A dualstack.drt-prod-batch-1635252859.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+drt-prod-batch1	3600	IN	A	54.76.130.179
+drt-prod-sql1	3600	IN	A	34.251.146.53
+drt-prod-sql2	3600	IN	A	54.77.55.132
+drt-prod-web1	3600	IN	A	52.16.250.216
+drt-prod-web2	3600	IN	A	52.19.192.232
+drt-prod	86400	AWS	ALIAS	A dualstack.drt-prod-mp-1443726683.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+drt2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+drt2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+dumprdc-preprod-docker-batch	3600	IN	A	104.155.86.91
+dumprdc-preprod-docker	3600	IN	A	104.155.86.91
+e2y-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+e2y-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+e2y-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+e2y-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ebiznext-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ebiznext-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ec3f3d777efed2114e2c8a4299881718	10800	IN	CNAME	3288A21738ABFDC58BC6A91A877716470B4E83E2.comodoca.com.
+echidna-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+echidna-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+eci-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+eci-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+eci-preprod-batch	86400	AWS	ALIAS	A dualstack.eci-preprod-batch-632912175.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+eci-preprod-batch1	3600	IN	A	52.51.22.163
+eci-preprod-sql1	3600	IN	A	52.208.54.174
+eci-preprod-sql2	3600	IN	A	52.208.53.162
+eci-preprod-web1	3600	IN	A	52.51.121.131
+eci-preprod-web2	3600	IN	A	52.50.64.226
+eci-preprod	86400	AWS	ALIAS	A dualstack.eci-preprod-mp-773981964.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+eci-prod-batch	86400	AWS	ALIAS	A dualstack.eci-prod-batch-1776070434.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+eci-prod-batch1	3600	IN	A	52.17.25.126
+eci-prod-sql1	3600	IN	A	52.208.39.140
+eci-prod-sql2	3600	IN	A	52.51.192.233
+eci-prod-web1	3600	IN	A	52.50.146.11
+eci-prod-web2	3600	IN	A	52.51.155.216
+eci-prod	86400	AWS	ALIAS	A dualstack.eci-prod-mp-1712284248.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+effectconnect-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+effectconnect-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+elasticsearch-bigdesk	10800	IN	CNAME	gateway
+elasticsearch-head	10800	IN	CNAME	gateway
+elasticsearch-test-batch	86400	AWS	ALIAS	A dualstack.elasticsearch-test-batch-822675651.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+elasticsearch-test	86400	AWS	ALIAS	A dualstack.elasticsearch-test-mp-1305156064.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+elkjop-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+elkjop-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+elkjop-prod-batch	86400	AWS	ALIAS	A elkjop-prod-batch-1862851102.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+elkjop-prod-batch1	3600	IN	A	52.51.94.120
+elkjop-prod-sql1	3600	IN	A	52.213.124.102
+elkjop-prod-sql2	3600	IN	A	52.48.59.153
+elkjop-prod-web1	3600	IN	A	52.212.236.143
+elkjop-prod-web2	3600	IN	A	52.213.98.129
+elkjop-prod	86400	AWS	ALIAS	A elkjop-prod-mp-813828414.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+elkjop2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+elkjop2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+empik-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+empik-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+empik-preprod-batch	86400	AWS	ALIAS	A empik-preprod-batch-2021223018.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+empik-preprod-batch1	3600	IN	A	52.210.74.228
+empik-preprod-sql1	3600	IN	A	52.209.77.195
+empik-preprod-sql2	3600	IN	A	52.51.30.83
+empik-preprod-web1	3600	IN	A	52.210.58.188
+empik-preprod-web2	3600	IN	A	52.210.103.96
+empik-preprod	86400	AWS	ALIAS	A empik-preprod-mp-1213189799.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+empik-prod-batch	86400	AWS	ALIAS	A empik-prod-batch-347376439.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+empik-prod-batch1	3600	IN	A	52.50.13.27
+empik-prod-sql1	3600	IN	A	52.209.37.103
+empik-prod-sql2	3600	IN	A	52.209.67.86
+empik-prod-web1	3600	IN	A	52.209.136.212
+empik-prod-web2	3600	IN	A	52.210.99.75
+empik-prod	86400	AWS	ALIAS	A empik-prod-mp-1609107428.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+enscight-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+enscight-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+env0-dev-batch	3600	IN	A	104.155.115.207
+env0-dev	3600	IN	A	104.155.115.207
+env1-dev-batch	3600	IN	A	146.148.118.158
+env1-dev	3600	IN	A	146.148.118.158
+env10-dev-batch	3600	IN	A	23.251.137.146
+env10-dev	3600	IN	A	23.251.137.146
+env11-dev-batch	3600	IN	A	104.155.85.209
+env11-dev	3600	IN	A	104.155.85.209
+env12-dev-batch	3600	IN	A	104.199.8.75
+env12-dev	3600	IN	A	104.199.8.75
+env2-dev-batch	3600	IN	A	104.155.102.243
+env2-dev	3600	IN	A	104.155.102.243
+env3-dev-batch	3600	IN	A	130.211.51.181
+env3-dev	3600	IN	A	130.211.51.181
+env4-dev-batch	3600	IN	A	130.211.58.250
+env4-dev	3600	IN	A	130.211.58.250
+env5-dev-batch	3600	IN	A	104.155.61.65
+env5-dev	3600	IN	A	104.155.61.65
+env6-dev-batch	3600	IN	A	130.211.83.221
+env6-dev	3600	IN	A	130.211.83.221
+env7-dev-batch	3600	IN	A	130.211.105.75
+env7-dev	3600	IN	A	130.211.105.75
+env8-dev-batch	3600	IN	A	130.211.48.27
+env8-dev	3600	IN	A	130.211.48.27
+env9-dev-batch	3600	IN	A	104.199.110.126
+env9-dev	3600	IN	A	104.199.110.126
+envelopes-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+envelopes-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+envelopes-prod-batch	86400	AWS	ALIAS	A envelopes-prod-batch-163114764.us-east-1.elb.amazonaws.com. Z35SXDOTRQ7X7K false
+envelopes-prod-batch1	3600	IN	A	34.206.210.254
+envelopes-prod-sql1	3600	IN	A	52.206.7.73
+envelopes-prod-sql2	3600	IN	A	54.89.18.150
+envelopes-prod-web1	3600	IN	A	34.206.90.85
+envelopes-prod-web2	3600	IN	A	34.206.146.226
+envelopes-prod	86400	AWS	ALIAS	A envelopes-prod-mp-416752892.us-east-1.elb.amazonaws.com. Z35SXDOTRQ7X7K false
+envoimoinscher-dev-batch	3600	IN	CNAME	gateway
+envoimoinscher-dev	3600	IN	CNAME	gateway
+epc-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+epc-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+epc-preprod-batch	86400	AWS	ALIAS	A dualstack.epc-preprod-batch-618018593.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+epc-preprod-batch1	3600	IN	A	54.76.48.1
+epc-preprod-sql1	3600	IN	A	54.76.221.240
+epc-preprod-sql2	3600	IN	A	54.76.225.141
+epc-preprod-web1	3600	IN	A	52.19.43.98
+epc-preprod-web2	3600	IN	A	52.17.249.98
+epc-preprod	86400	AWS	ALIAS	A dualstack.epc-preprod-mp-380841824.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+epc-prod-batch	86400	AWS	ALIAS	A dualstack.epc-prod-batch-1531925979.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+epc-prod-batch1	3600	IN	A	54.77.80.23
+epc-prod-sql1	3600	IN	A	34.249.78.108
+epc-prod-sql2	3600	IN	A	34.248.67.214
+epc-prod-web1	3600	IN	A	52.18.212.253
+epc-prod-web2	3600	IN	A	54.76.151.7
+epc-prod	86400	AWS	ALIAS	A dualstack.epc-prod-mp-91326115.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ermes-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ermes-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+falabella-test-docker-batch	3600	IN	A	104.155.86.91
+falabella-test-docker	3600	IN	A	104.155.86.91
+fatih-test-batch	86400	AWS	ALIAS	A kube-dev-eu-2-node-812759624.eu-central-1.elb.amazonaws.com. Z215JYRZR1TBD5 false
+fatih-test	86400	AWS	ALIAS	A kube-dev-eu-2-node-812759624.eu-central-1.elb.amazonaws.com. Z215JYRZR1TBD5 false
+feelunique-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+feelunique-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+frboissons-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+frboissons-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ftp	10800	IN	A	178.33.182.36
+galerieslafayette-preprod-batch	86400	AWS	ALIAS	A dualstack.galerieslafayette-preprod-batch-1254815347.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+galerieslafayette-preprod-batch1	3600	IN	A	52.214.54.100
+galerieslafayette-preprod-sql1	3600	IN	A	34.248.237.82
+galerieslafayette-preprod-sql2	3600	IN	A	52.214.202.235
+galerieslafayette-preprod-web1	3600	IN	A	52.214.234.6
+galerieslafayette-preprod-web2	3600	IN	A	34.250.203.35
+galerieslafayette-preprod	86400	AWS	ALIAS	A dualstack.galerieslafayette-preprod-mp-1329621848.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+galerieslafayette-prod-batch	86400	AWS	ALIAS	A dualstack.galerieslafayette-prod-batch-1054219485.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+galerieslafayette-prod-batch1	3600	IN	A	52.209.89.243
+galerieslafayette-prod-sql1	3600	IN	A	52.211.125.184
+galerieslafayette-prod-sql2	3600	IN	A	52.212.65.127
+galerieslafayette-prod-web1	3600	IN	A	52.212.197.46
+galerieslafayette-prod-web2	3600	IN	A	52.215.92.55
+galerieslafayette-prod	86400	AWS	ALIAS	A dualstack.galerieslafayette-prod-mp-1974195268.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gameseek-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gameseek-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gameseek-prod-batch	86400	AWS	ALIAS	A gameseek-prod-batch-1892370070.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gameseek-prod-batch1	3600	IN	A	52.19.133.66
+gameseek-prod-sql1	3600	IN	A	52.212.236.16
+gameseek-prod-sql2	3600	IN	A	52.210.7.90
+gameseek-prod-web1	3600	IN	A	34.253.173.148
+gameseek-prod-web2	3600	IN	A	34.253.64.153
+gameseek-prod	86400	AWS	ALIAS	A gameseek-prod-mp-1768122376.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gateway	10800	IN	A	178.33.182.35
+gateway2	10800	IN	A	178.33.182.34
+gl-batch-pp	3600	IN	CNAME	galerieslafayette-preprod-batch
+gl-batch	3600	IN	CNAME	galerieslafayette-prod-batch
+glog	10800	IN	CNAME	gateway
+gme-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gme-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gme-preprod-batch	86400	AWS	ALIAS	A dualstack.gme-preprod-batch-1811250137.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gme-preprod-batch1	3600	IN	A	52.17.174.181
+gme-preprod-sql1	3600	IN	A	52.49.91.132
+gme-preprod-sql2	3600	IN	A	52.19.228.3
+gme-preprod-web1	3600	IN	A	54.72.72.233
+gme-preprod-web2	3600	IN	A	52.17.87.252
+gme-preprod	86400	AWS	ALIAS	A dualstack.gme-preprod-mp-124960858.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gme-prod-batch	86400	AWS	ALIAS	A dualstack.gme-prod-batch-1791357595.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gme-prod-batch1	3600	IN	A	54.77.29.37
+gme-prod-sql1	3600	IN	A	52.19.226.132
+gme-prod-sql2	3600	IN	A	52.209.241.117
+gme-prod-web1	3600	IN	A	52.16.13.218
+gme-prod-web2	3600	IN	A	54.76.223.61
+gme-prod	86400	AWS	ALIAS	A dualstack.gme-prod-mp-101348230.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gme-recette-batch	10800	IN	CNAME	gateway
+gme-recette	10800	IN	CNAME	gateway
+gosport-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gosport-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gosport-prod-batch	86400	AWS	ALIAS	A gosport-prod-batch-1746961838.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gosport-prod-batch1	3600	IN	A	52.209.142.89
+gosport-prod-sql1	3600	IN	A	54.76.173.232
+gosport-prod-sql2	3600	IN	A	52.17.24.122
+gosport-prod-web1	3600	IN	A	52.215.16.20
+gosport-prod-web2	3600	IN	A	52.212.31.73
+gosport-prod	86400	AWS	ALIAS	A gosport-prod-mp-672648004.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gosport2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gosport2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+grandbazaar-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+grandbazaar-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+grenieralpin-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+grenieralpin-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+grenieralpin-preprod-batch	86400	AWS	ALIAS	A grenieralpin-preprod-batch-1484947837.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+grenieralpin-preprod-batch1	3600	IN	A	52.209.108.204
+grenieralpin-preprod-sql1	3600	IN	A	52.210.164.167
+grenieralpin-preprod-sql2	3600	IN	A	52.210.125.98
+grenieralpin-preprod-web1	3600	IN	A	52.209.195.58
+grenieralpin-preprod-web2	3600	IN	A	52.209.235.45
+grenieralpin-preprod	86400	AWS	ALIAS	A grenieralpin-preprod-mp-648637285.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+grenieralpin-prod-batch	86400	AWS	ALIAS	A grenieralpin-prod-batch-1797937207.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+grenieralpin-prod-batch1	3600	IN	A	52.209.241.158
+grenieralpin-prod-sql1	3600	IN	A	52.210.77.70
+grenieralpin-prod-sql2	3600	IN	A	52.50.86.134
+grenieralpin-prod-web1	3600	IN	A	52.210.171.145
+grenieralpin-prod-web2	3600	IN	A	52.210.168.96
+grenieralpin-prod	86400	AWS	ALIAS	A grenieralpin-prod-mp-367734995.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gruik-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-worker-675571571.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gruik-dev	86400	AWS	ALIAS	A kube-dev-eu-1-worker-675571571.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+grupogarsa-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+grupogarsa-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gto-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+gto-demo-docker-batch	3600	IN	A	104.155.86.91
+gto-demo-docker	3600	IN	A	104.155.86.91
+gto-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+habitatjardin-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+habitatjardin-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+habitatjardin-preprod-batch	86400	AWS	ALIAS	A dualstack.habitatjardin-preprod-batch-925803174.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+habitatjardin-preprod-batch1	3600	IN	A	52.16.247.179
+habitatjardin-preprod-sql1	3600	IN	A	52.208.89.187
+habitatjardin-preprod-sql2	3600	IN	A	52.50.110.154
+habitatjardin-preprod-web1	3600	IN	A	52.16.183.6
+habitatjardin-preprod-web2	3600	IN	A	52.16.189.180
+habitatjardin-preprod	86400	AWS	ALIAS	A dualstack.habitatjardin-preprod-mp-172136342.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+habitatjardin-prod-batch	86400	AWS	ALIAS	A dualstack.habitatjardin-prod-batch-1613764262.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+habitatjardin-prod-batch1	3600	IN	A	52.51.212.135
+habitatjardin-prod-sql1	3600	IN	A	52.208.5.220
+habitatjardin-prod-sql2	3600	IN	A	52.50.43.172
+habitatjardin-prod-web1	3600	IN	A	52.48.47.173
+habitatjardin-prod-web2	3600	IN	A	52.208.48.46
+habitatjardin-prod	86400	AWS	ALIAS	A dualstack.habitatjardin-prod-mp-193397785.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+halfords-prod-batch	86400	AWS	ALIAS	A halfords-prod-batch-212592113.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+halfords-prod-batch1	3600	IN	A	34.252.112.30
+halfords-prod-sql1	3600	IN	A	34.253.32.147
+halfords-prod-sql2	3600	IN	A	34.248.231.168
+halfords-prod-web1	3600	IN	A	34.253.9.34
+halfords-prod-web2	3600	IN	A	34.252.167.25
+halfords-prod	86400	AWS	ALIAS	A halfords-prod-mp-60953850.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+harvey-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+harvey-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+harvey-preprod-batch	86400	AWS	ALIAS	A dualstack.harvey-preprod-batch-944989843.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+harvey-preprod-batch1	3600	IN	A	52.31.48.5
+harvey-preprod-sql1	3600	IN	A	52.31.72.92
+harvey-preprod-sql2	3600	IN	A	52.31.71.134
+harvey-preprod-web1	3600	IN	A	52.30.236.212
+harvey-preprod-web2	3600	IN	A	52.31.49.210
+harvey-preprod	86400	AWS	ALIAS	A dualstack.harvey-preprod-mp-264935858.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+harvey-prod-batch	86400	AWS	ALIAS	A dualstack.harvey-prod-batch-990443259.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+harvey-prod-batch1	3600	IN	A	52.31.55.23
+harvey-prod-sql1	3600	IN	A	52.30.154.33
+harvey-prod-sql2	3600	IN	A	52.30.232.60
+harvey-prod-web1	3600	IN	A	52.30.219.4
+harvey-prod-web2	3600	IN	A	52.17.107.242
+harvey-prod	86400	AWS	ALIAS	A dualstack.harvey-prod-mp-385439067.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hennesmauritz-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hennesmauritz-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hennesmauritz-preprod-batch	86400	AWS	ALIAS	A hennesmauritz-preprod-batch-1448944006.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hennesmauritz-preprod-batch1	3600	IN	A	52.16.105.158
+hennesmauritz-preprod-sql1	3600	IN	A	34.251.126.161
+hennesmauritz-preprod-sql2	3600	IN	A	52.50.176.163
+hennesmauritz-preprod-web1	3600	IN	A	52.208.152.141
+hennesmauritz-preprod-web2	3600	IN	A	52.209.213.15
+hennesmauritz-preprod	86400	AWS	ALIAS	A hennesmauritz-preprod-mp-202522346.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hennesmauritz2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hennesmauritz2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hlf-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hlf-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hlf-preprod-batch	86400	AWS	ALIAS	A dualstack.hlf-preprod-batch-202220905.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hlf-preprod-batch1	3600	IN	A	52.16.220.177
+hlf-preprod-sql1	3600	IN	A	52.17.61.116
+hlf-preprod-sql2	3600	IN	A	52.17.62.93
+hlf-preprod-web1	3600	IN	A	52.16.158.146
+hlf-preprod-web2	3600	IN	A	52.16.141.6
+hlf-preprod	86400	AWS	ALIAS	A dualstack.hlf-preprod-mp-1152394491.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hlf-prod-batch	300	IN	CNAME	halfords-prod-batch
+hlf-prod	300	IN	CNAME	halfords-prod
+hpenterprise-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hpenterprise-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hpenterprise-prod-batch	86400	AWS	ALIAS	A hpenterprise-prod-batch-1190619242.us-west-2.elb.amazonaws.com. Z1H1FL5HABSF5 false
+hpenterprise-prod-batch1	3600	IN	A	35.165.194.45
+hpenterprise-prod-sql1	3600	IN	A	35.165.119.161
+hpenterprise-prod-sql2	3600	IN	A	35.165.76.142
+hpenterprise-prod-web1	3600	IN	A	35.165.12.6
+hpenterprise-prod-web2	3600	IN	A	35.160.158.243
+hpenterprise-prod	86400	AWS	ALIAS	A hpenterprise-prod-mp-1241453617.us-west-2.elb.amazonaws.com. Z1H1FL5HABSF5 false
+hubot	3600	IN	A	104.155.23.91
+hybris-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hybris-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hybris-ops-servers	3600	IN	A	34.249.127.213
+hybris	3600	IN	A	52.212.99.113
+hybris2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hybris2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hybrisops-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+hybrisops-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+i-ec9ffb64	10800	IN	A	52.50.175.233
+ibm-wcs-demo-docker-batch	3600	IN	A	104.155.86.91
+ibm-wcs-demo-docker	3600	IN	A	104.155.86.91
+ibs-batch	10800	IN	CNAME	gateway
+ibs-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ibs-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ibs-preprod-batch	86400	AWS	ALIAS	A ibs-preprod-batch-571292449.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ibs-preprod-batch1	3600	IN	A	34.248.16.0
+ibs-preprod-sql1	3600	IN	A	34.250.107.130
+ibs-preprod-sql2	3600	IN	A	34.249.48.26
+ibs-preprod-web1	3600	IN	A	34.251.85.4
+ibs-preprod-web2	3600	IN	A	34.251.86.174
+ibs-preprod	86400	AWS	ALIAS	A ibs-preprod-mp-617668988.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ibs-prod-batch	86400	AWS	ALIAS	A ibs-prod-batch-2141297868.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ibs-prod-batch1	3600	IN	A	52.209.157.147
+ibs-prod-sql1	3600	IN	A	52.209.236.220
+ibs-prod-sql2	3600	IN	A	52.213.18.246
+ibs-prod-web1	3600	IN	A	52.210.49.196
+ibs-prod-web2	3600	IN	A	52.31.194.211
+ibs-prod	86400	AWS	ALIAS	A ibs-prod-mp-2047127685.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+initidev-presales-test-docker-batch	3600	IN	A	104.155.86.91
+initidev-presales-test-docker	3600	IN	A	104.155.86.91
+int.antoinejenkins-test	3600	IN	A	104.155.63.104
+int.demo-demo	3600	IN	A	104.155.50.101
+int.migration-test-dev	3600	IN	A	146.148.120.109
+int.migration-test	3600	IN	A	146.148.120.109
+int.mirakl-dump	3600	IN	A	146.148.19.251
+int.mqa3-dev	3600	IN	A	146.148.6.214
+int.sprint-mps-dev	3600	IN	A	130.211.93.110
+int.sprint-qw-dev	3600	IN	A	104.155.53.191
+int.toitoine-test	3600	IN	A	104.155.63.104
+int.upsource	3600	IN	A	104.155.6.64
+int.wow-dev	3600	IN	A	54.252.166.14
+int.wow2-dev	3600	IN	A	172.31.10.106
+int.wow3-dev	3600	IN	A	54.66.230.192
+int.wow4-dev	3600	IN	A	52.64.2.105
+intermarche-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+intermarche-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+intermarche-preprod-batch	86400	AWS	ALIAS	A intermarche-preprod-batch-172102044.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+intermarche-preprod-batch1	3600	IN	A	52.212.26.106
+intermarche-preprod-sql1	3600	IN	A	52.30.22.20
+intermarche-preprod-sql2	3600	IN	A	52.210.240.208
+intermarche-preprod-web1	3600	IN	A	52.51.138.65
+intermarche-preprod-web2	3600	IN	A	52.212.25.53
+intermarche-preprod	86400	AWS	ALIAS	A intermarche-preprod-mp-1041052094.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+intermarche-prod-batch	86400	AWS	ALIAS	A intermarche-prod-batch-2146577120.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+intermarche-prod-batch1	3600	IN	A	52.212.49.103
+intermarche-prod-sql1	3600	IN	A	52.209.63.111
+intermarche-prod-sql2	3600	IN	A	52.209.7.178
+intermarche-prod-web1	3600	IN	A	52.209.222.202
+intermarche-prod-web2	3600	IN	A	52.209.45.186
+intermarche-prod	86400	AWS	ALIAS	A intermarche-prod-mp-317871331.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+intermarche2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+intermarche2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+iph-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+iph-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+iph-prod-batch	86400	AWS	ALIAS	A iph-prod-batch-458494578.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+iph-prod-batch1	3600	IN	A	34.253.12.154
+iph-prod-sql1	3600	IN	A	52.213.206.203
+iph-prod-sql2	3600	IN	A	52.31.175.211
+iph-prod-web1	3600	IN	A	52.215.45.25
+iph-prod-web2	3600	IN	A	34.251.12.170
+iph-prod	86400	AWS	ALIAS	A iph-prod-mp-1384307006.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+iph2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+iph2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+jenkins-agent-1	300	IN	A	163.172.55.133
+jenkins-agent-2	300	IN	A	163.172.104.190
+jenkins-agent-3	300	IN	A	163.172.106.193
+jenkins-agent-4	300	IN	A	163.172.106.194
+jenkins-centos7	3600	IN	A	178.33.182.37
+jenkins-dev	3600	IN	A	52.210.5.50
+jenkins-hybris	3600	IN	A	52.208.48.75
+jenkins-mcm	3600	IN	A	52.211.153.144
+jenkins-mmp	3600	IN	A	52.213.29.26
+jenkins-modules	3600	IN	A	52.48.60.67
+jenkins-moules	300	IN	CNAME	jenkins-modules
+jenkins-prod	3600	IN	A	178.33.182.39
+jenkins-production-agent-aws-ap-southeast-2-1	3600	IN	A	52.63.129.85
+jenkins-production-agent-aws-eu-west-1-1	3600	IN	A	52.210.86.15
+jenkins-production-agent-aws-eu-west-1-2	3600	IN	A	52.211.135.252
+jenkins-production-agent-aws-eu-west-1-3	3600	IN	A	52.210.170.62
+jenkins-production-agent-aws-sa-east-1-1	3600	IN	A	52.67.194.250
+jenkins-production-agent-docker	3600	IN	A	52.208.118.77
+jenkins-production-agent-gce	3600	IN	A	104.155.112.183
+jenkins-production	3600	IN	A	52.208.58.137
+jenkins-slave-docker-2	3600	IN	A	104.155.51.51
+jenkins-slave-gce	3600	IN	A	146.148.118.253
+jenkins-what	3600	IN	A	52.212.3.241
+jenkins	3600	IN	A	104.155.82.7
+jenkins9zon90wt9g-test-batch	86400	AWS	ALIAS	A jenkins9zon90wt9g-test-batch-1806208341.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+jenkins9zon90wt9g-test-batch1	3600	IN	A	52.30.102.93
+jenkins9zon90wt9g-test-sql1	3600	IN	A	52.213.255.102
+jenkins9zon90wt9g-test-sql2	3600	IN	A	52.213.187.48
+jenkins9zon90wt9g-test-web1	3600	IN	A	52.30.125.44
+jenkinsej6sfnpmcf-test-batch1	3600	IN	A	52.18.86.247
+jenkinsej6sfnpmcf-test-sql1	3600	IN	A	52.211.135.251
+jenkinsej6sfnpmcf-test-sql2	3600	IN	A	52.212.79.230
+jenkinsej6sfnpmcf-test-web1	3600	IN	A	52.30.18.228
+jenkinsej6sfnpmcf-test-web2	3600	IN	A	52.210.221.125
+jenkinsejda3hg4uu-test-batch1	3600	IN	A	52.17.40.177
+jenkinsejda3hg4uu-test-sql1	3600	IN	A	52.212.220.235
+jenkinsejda3hg4uu-test-sql2	3600	IN	A	52.213.114.152
+jenkinsejda3hg4uu-test-web1	3600	IN	A	52.212.28.235
+jenkinsejda3hg4uu-test-web2	3600	IN	A	52.212.72.26
+jira-sandbox	3600	IN	CNAME	gateway.mirakl.net
+jira	1800	IN	CNAME	atlassian
+jiratest	300	IN	A	52.50.100.91
+johann-full-test-docker-batch	3600	IN	A	104.155.86.91
+johann-full-test-docker	3600	IN	A	104.155.86.91
+joseph-test-docker-batch	3600	IN	A	104.155.86.91
+joseph-test-docker	3600	IN	A	104.155.86.91
+jte-ake-test-docker-batch	3600	IN	A	104.155.86.91
+jte-ake-test-docker	3600	IN	A	104.155.86.91
+jte-test-docker-batch	3600	IN	A	104.155.86.91
+jte-test-docker	3600	IN	A	104.155.86.91
+julien-compose-dock-test-docker-batch	3600	IN	A	104.155.86.91
+julien-compose-dock-test-docker	3600	IN	A	104.155.86.91
+julien-ibm-test-docker-batch	3600	IN	A	104.155.86.91
+julien-ibm-test-docker	3600	IN	A	104.155.86.91
+julien-presales-demo-docker-batch	3600	IN	A	104.155.86.91
+julien-presales-demo-docker	3600	IN	A	104.155.86.91
+julien-smtp-test-docker-batch	3600	IN	A	104.155.86.91
+julien-smtp-test-docker	3600	IN	A	104.155.86.91
+julien2-test-batch	3600	IN	A	104.155.86.91
+julien2-test	3600	IN	A	104.155.86.91
+jvey	900	IN	A	192.168.0.68
+kafka-int1-broker-1	3600	IN	A	52.51.188.119
+kafka-int1-broker-2	3600	IN	A	52.51.30.194
+kafka-int1-broker-3	3600	IN	A	52.214.94.197
+kafka-int1-zookeeper-1	3600	IN	A	52.211.243.216
+kafka-int1-zookeeper-2	3600	IN	A	52.213.4.74
+kafka-int1-zookeeper-3	3600	IN	A	52.214.96.208
+kafka-manager	3600	IN	A	52.208.73.75
+kappa-test-batch	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+kappa-test	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+keyrus-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+keyrus-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+kikou-test-batch	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+kikou-test	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+kleertjes-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+kleertjes-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+komplett-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+komplett-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+komplett-preprod-batch	86400	AWS	ALIAS	A komplett-preprod-batch-1503136298.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+komplett-preprod-batch1	3600	IN	A	52.211.173.34
+komplett-preprod-sql1	3600	IN	A	52.210.210.26
+komplett-preprod-sql2	3600	IN	A	54.77.240.53
+komplett-preprod-web1	3600	IN	A	52.210.9.146
+komplett-preprod-web2	3600	IN	A	52.211.151.93
+komplett-preprod	86400	AWS	ALIAS	A komplett-preprod-mp-1266107775.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+komplett-prod-batch	86400	AWS	ALIAS	A komplett-prod-batch-1640215793.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+komplett-prod-batch1	3600	IN	A	52.213.186.73
+komplett-prod-sql1	3600	IN	A	52.214.81.222
+komplett-prod-sql2	3600	IN	A	52.208.50.253
+komplett-prod-web1	3600	IN	A	52.211.152.88
+komplett-prod-web2	3600	IN	A	52.212.38.57
+komplett-prod	86400	AWS	ALIAS	A komplett-prod-mp-1610783173.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+labelpark-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+labelpark-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+labelpark-preprod-batch	86400	AWS	ALIAS	A dualstack.labelpark-preprod-batch-461657594.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+labelpark-preprod-batch1	3600	IN	A	52.30.229.108
+labelpark-preprod-sql1	3600	IN	A	52.50.81.123
+labelpark-preprod-sql2	3600	IN	A	52.50.24.232
+labelpark-preprod-web1	3600	IN	A	52.30.49.85
+labelpark-preprod-web2	3600	IN	A	52.50.75.244
+labelpark-preprod	86400	AWS	ALIAS	A dualstack.labelpark-preprod-mp-708655888.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+labelpark-prod-batch	86400	AWS	ALIAS	A dualstack.labelpark-prod-batch-785304701.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+labelpark-prod-batch1	3600	IN	A	52.19.17.88
+labelpark-prod-sql1	3600	IN	A	52.19.223.230
+labelpark-prod-sql2	3600	IN	A	52.31.193.227
+labelpark-prod-web1	3600	IN	A	52.50.84.143
+labelpark-prod-web2	3600	IN	A	52.50.12.48
+labelpark-prod	86400	AWS	ALIAS	A dualstack.labelpark-prod-mp-1274812283.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+last-batch	3600	IN	A	107.178.250.127
+last	3600	IN	A	107.178.242.70
+latam-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+latam-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+latest.magento	3600	IN	CNAME	magento
+ldo-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ldo-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ldu-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ldu-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+leduff-prod-batch	86400	AWS	ALIAS	A dualstack.leduff-prod-batch-472254231.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+leduff-prod-batch1	3600	IN	A	52.209.55.11
+leduff-prod-sql1	3600	IN	A	52.208.237.220
+leduff-prod-sql2	3600	IN	A	52.18.110.50
+leduff-prod-web1	3600	IN	A	52.209.57.119
+leduff-prod-web2	3600	IN	A	52.31.163.14
+leduff-prod	86400	AWS	ALIAS	A dualstack.leduff-prod-mp-1754066340.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+lgl-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+lgl-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+lgl-preprod-batch	86400	AWS	ALIAS	A dualstack.galerieslafayette-preprod-batch-1254815347.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+lgl-preprod	86400	AWS	ALIAS	A dualstack.galerieslafayette-preprod-mp-1329621848.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+lgl-prod-batch	86400	AWS	ALIAS	A dualstack.galerieslafayette-prod-batch-1054219485.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+lgl-prod	86400	AWS	ALIAS	A dualstack.galerieslafayette-prod-mp-1974195268.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+lgl-recette-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+lgl-recette	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+lirwin-demo-batch	10800	IN	CNAME	gateway
+lirwin-demo	10800	IN	CNAME	gateway
+log-dev	3600	IN	A	52.209.52.45
+log-prod	3600	IN	A	52.210.13.253
+logging	1800	IN	A	5.144.137.252
+logs	10800	IN	CNAME	gateway
+logstash	3600	IN	A	52.31.102.211
+lullabylane-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+lullabylane-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+m2-ops-test-docker-batch	3600	IN	A	104.155.86.91
+m2-ops-test-docker	3600	IN	A	104.155.86.91
+m2.magento	3600	IN	CNAME	magento
+m6web-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+m6web-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+m6web-preprod-batch	86400	AWS	ALIAS	A m6web-preprod-batch-2024242061.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+m6web-preprod-batch1	3600	IN	A	52.213.128.149
+m6web-preprod-sql1	3600	IN	A	52.213.206.227
+m6web-preprod-sql2	3600	IN	A	52.209.120.129
+m6web-preprod-web1	3600	IN	A	52.214.43.191
+m6web-preprod-web2	3600	IN	A	52.214.45.253
+m6web-preprod	86400	AWS	ALIAS	A m6web-preprod-mp-689144344.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+m6web-prod-batch	86400	AWS	ALIAS	A m6web-prod-batch-1051448965.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+m6web-prod-batch1	3600	IN	A	52.210.51.66
+m6web-prod-sql1	3600	IN	A	52.212.148.47
+m6web-prod-sql2	3600	IN	A	52.212.162.23
+m6web-prod-web1	3600	IN	A	52.208.184.0
+m6web-prod-web2	3600	IN	A	52.48.20.88
+m6web-prod	86400	AWS	ALIAS	A m6web-prod-mp-1107045228.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+m6web2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+m6web2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+macway-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+macway-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+macway-preprod-batch	86400	AWS	ALIAS	A dualstack.macway-preprod-batch-813540167.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+macway-preprod-batch1	3600	IN	A	52.16.200.75
+macway-preprod-sql1	3600	IN	A	52.17.136.4
+macway-preprod-sql2	3600	IN	A	52.48.135.44
+macway-preprod-web1	3600	IN	A	52.18.170.201
+macway-preprod-web2	3600	IN	A	52.48.19.109
+macway-preprod	86400	AWS	ALIAS	A dualstack.macway-preprod-mp-608783033.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+macway-prod-batch	86400	AWS	ALIAS	A dualstack.macway-prod-batch-1869269931.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+macway-prod-batch1	3600	IN	A	52.48.11.3
+macway-prod-sql1	3600	IN	A	52.50.207.253
+macway-prod-sql2	3600	IN	A	34.248.227.146
+macway-prod-web1	3600	IN	A	52.48.125.1
+macway-prod-web2	3600	IN	A	52.16.151.28
+macway-prod	86400	AWS	ALIAS	A dualstack.macway-prod-mp-1099848281.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+magento-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+magento-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+magento-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+magento-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+magento-recette-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+magento-recette	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+magento	3600	IN	A	104.155.26.204
+magento2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+magento2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+magento2-recette-docker-batch	3600	IN	A	104.155.86.91
+magento2-recette-docker	3600	IN	A	104.155.86.91
+magentodemo	300	IN	CNAME	magentops.mirakl.net
+magentops-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+magentops-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+magentops	3600	IN	A	52.213.8.204
+magentotax-recette-docker-batch	3600	IN	A	104.155.86.91
+magentotax-recette-docker	3600	IN	A	104.155.86.91
+mail	28800	IN	MX	10 inbound-smtp.eu-west-1.amazonaws.com
+manager	3600	IN	CNAME	mirakl-sandbox1
+marieclaire-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+marieclaire-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+marieclaire-prod-batch	86400	AWS	ALIAS	A marieclaire-prod-batch-854791721.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+marieclaire-prod-batch1	3600	IN	A	52.210.23.153
+marieclaire-prod-sql1	3600	IN	A	52.49.108.191
+marieclaire-prod-sql2	3600	IN	A	52.210.63.0
+marieclaire-prod-web1	3600	IN	A	52.211.195.81
+marieclaire-prod-web2	3600	IN	A	52.211.176.53
+marieclaire-prod	86400	AWS	ALIAS	A marieclaire-prod-mp-2043040504.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+mathieu-demo-docker-batch	3600	IN	A	104.155.86.91
+mathieu-demo-docker	3600	IN	A	104.155.86.91
+mbi	3600	IN	CNAME	gateway
+mcfadyen-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+mcfadyen-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+medivia-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+medivia-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+medivia-prod-batch	86400	AWS	ALIAS	A medivia-prod-batch-1788454377.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+medivia-prod-batch1	3600	IN	A	52.213.20.75
+medivia-prod-sql1	3600	IN	A	52.212.255.172
+medivia-prod-sql2	3600	IN	A	52.18.116.243
+medivia-prod-web1	3600	IN	A	52.49.174.145
+medivia-prod-web2	3600	IN	A	52.213.35.145
+medivia-prod	86400	AWS	ALIAS	A medivia-prod-mp-1488548635.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+metro-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+metro-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+migration-test-batch	3600	IN	A	107.178.242.70
+migration-test	3600	IN	A	107.178.242.70
+mirakl-09	10800	IN	A	195.154.8.173
+mirakl-10	10800	IN	A	62.210.140.146
+mirakl-atg-demo	10800	IN	CNAME	gateway
+mirakl-cmdb	3600	IN	A	52.208.73.75
+mirakl-dashing	3600	IN	A	52.208.73.75
+mirakl-dump	3600	IN	A	146.148.19.251
+mirakl-ftp	3600	IN	A	54.171.243.223
+mmp6455-dev-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+mmp6455-dev	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+mockups	3600	IN	CNAME	gateway
+moethennessy-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+moethennessy-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+moethennessy2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+moethennessy2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+monoprix-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+monoprix-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+monoprix2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+monoprix2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+monshowroom-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+monshowroom-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+monshowroom-preprod-batch	86400	AWS	ALIAS	A monshowroom-preprod-batch-873984880.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+monshowroom-preprod-batch1	3600	IN	A	52.50.207.78
+monshowroom-preprod-sql1	3600	IN	A	34.248.74.158
+monshowroom-preprod-sql2	3600	IN	A	52.210.98.191
+monshowroom-preprod-web1	3600	IN	A	52.18.175.179
+monshowroom-preprod-web2	3600	IN	A	52.208.44.145
+monshowroom-preprod	86400	AWS	ALIAS	A monshowroom-preprod-mp-1669501653.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+monshowroom-prod-batch	86400	AWS	ALIAS	A monshowroom-prod-batch-549012072.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+monshowroom-prod-batch1	3600	IN	A	52.210.81.50
+monshowroom-prod-sql1	3600	IN	A	52.30.96.45
+monshowroom-prod-sql2	3600	IN	A	52.49.98.21
+monshowroom-prod-web1	3600	IN	A	52.48.1.51
+monshowroom-prod-web2	3600	IN	A	52.50.39.75
+monshowroom-prod	86400	AWS	ALIAS	A monshowroom-prod-mp-550825825.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+mqa3-dev-batch	3600	IN	A	107.178.250.127
+mqa3-dev	3600	IN	A	107.178.242.70
+ms-4037-gme-prod-docker-batch	3600	IN	A	104.155.86.91
+ms-4037-gme-prod-docker	3600	IN	A	104.155.86.91
+ms-4142-bts-prod-docker-batch	3600	IN	A	104.155.86.91
+ms-4142-bts-prod-docker	3600	IN	A	104.155.86.91
+ms-4941-test-docker-batch	3600	IN	A	104.155.86.91
+ms-4941-test-docker	3600	IN	A	104.155.86.91
+natalys-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+natalys-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+natalys-prod-batch	86400	AWS	ALIAS	A natalys-prod-batch-1159752914.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+natalys-prod-batch1	3600	IN	A	34.250.216.216
+natalys-prod-sql1	3600	IN	A	34.250.155.210
+natalys-prod-sql2	3600	IN	A	34.251.25.201
+natalys-prod-web1	3600	IN	A	34.249.122.247
+natalys-prod-web2	3600	IN	A	34.251.27.31
+natalys-prod	86400	AWS	ALIAS	A natalys-prod-mp-2064268306.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+naturedecouverte-preprod-batch	86400	AWS	ALIAS	A naturedecouverte-preprod-batch-1504039328.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+naturedecouverte-preprod-batch1	3600	IN	A	52.212.80.33
+naturedecouverte-preprod-sql1	3600	IN	A	52.208.158.121
+naturedecouverte-preprod-sql2	3600	IN	A	52.210.206.174
+naturedecouverte-preprod-web1	3600	IN	A	52.212.82.61
+naturedecouverte-preprod-web2	3600	IN	A	52.212.67.174
+naturedecouverte-preprod	86400	AWS	ALIAS	A naturedecouverte-preprod-mp-317801708.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+naturedecouverte-prod-batch	86400	AWS	ALIAS	A naturedecouverte-prod-batch-241188603.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+naturedecouverte-prod-batch1	3600	IN	A	52.210.0.207
+naturedecouverte-prod-sql1	3600	IN	A	52.212.165.155
+naturedecouverte-prod-sql2	3600	IN	A	52.212.123.208
+naturedecouverte-prod-web1	3600	IN	A	52.212.158.129
+naturedecouverte-prod-web2	3600	IN	A	52.212.96.57
+naturedecouverte-prod	86400	AWS	ALIAS	A naturedecouverte-prod-mp-1878213681.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ned-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ned-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ned-preprod-batch	86400	AWS	ALIAS	A dualstack.naturedecouverte-preprod-batch-1504039328.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ned-preprod	86400	AWS	ALIAS	A dualstack.naturedecouverte-preprod-mp-317801708.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ned-prod-batch	86400	AWS	ALIAS	A dualstack.naturedecouverte-prod-batch-241188603.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ned-prod	86400	AWS	ALIAS	A dualstack.naturedecouverte-prod-mp-1878213681.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ned-recette-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ned-recette	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+obo-test-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+obo-test	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ocl-dev-batch	10800	IN	CNAME	gateway
+ocl-dev	10800	IN	CNAME	gateway
+ocl-preprod-batch	10800	IN	A	128.204.213.205
+ocl-preprod	10800	IN	A	128.204.213.204
+ocl-prod-batch	10800	IN	A	128.204.213.203
+ocl-prod	10800	IN	A	128.204.213.202
+office-helper	3600	IN	A	104.155.118.174
+onlinemarket-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+onlinemarket-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+onlinemarket-prod-batch	86400	AWS	ALIAS	A onlinemarket-prod-batch-1711808223.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+onlinemarket-prod-batch1	3600	IN	A	34.253.136.171
+onlinemarket-prod-sql1	3600	IN	A	52.214.95.145
+onlinemarket-prod-sql2	3600	IN	A	54.72.205.152
+onlinemarket-prod-web1	3600	IN	A	34.248.162.174
+onlinemarket-prod-web2	3600	IN	A	52.215.35.165
+onlinemarket-prod	86400	AWS	ALIAS	A onlinemarket-prod-mp-1437041759.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+operations-akeneo-connectors	3600	IN	A	52.18.237.225
+operations-test-connectors	3600	IN	A	52.18.237.225
+operations1-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+operations1-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+operations2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+operations2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+otz-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+otz-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+otz-recette-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+otz-recette	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+outdoor-prod-batch	86400	AWS	ALIAS	A dualstack.outdoor-prod-batch-890602976.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+outdoor-prod	86400	AWS	ALIAS	A dualstack.outdoor-prod-mp-1727073586.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+outiz-preprod-batch	86400	AWS	ALIAS	A dualstack.outiz-preprod-batch-405225841.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+outiz-preprod-batch1	3600	IN	A	52.18.60.51
+outiz-preprod-sql1	3600	IN	A	52.50.132.233
+outiz-preprod-sql2	3600	IN	A	52.50.9.102
+outiz-preprod-web1	3600	IN	A	52.49.245.220
+outiz-preprod-web2	3600	IN	A	52.49.128.247
+outiz-preprod	86400	AWS	ALIAS	A dualstack.outiz-preprod-mp-584378309.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+outiz-prod-batch	86400	AWS	ALIAS	A dualstack.outiz-prod-batch-994384968.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+outiz-prod-batch1	3600	IN	A	52.18.67.39
+outiz-prod-sql1	3600	IN	A	34.248.118.58
+outiz-prod-sql2	3600	IN	A	34.248.189.42
+outiz-prod-web1	3600	IN	A	52.49.70.224
+outiz-prod-web2	3600	IN	A	52.49.252.196
+outiz-prod	86400	AWS	ALIAS	A dualstack.outiz-prod-mp-2062188287.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+packlink-dev-batch	3600	IN	CNAME	gateway
+packlink-dev	3600	IN	CNAME	gateway
+pariscityvision-demo	3600	IN	CNAME	gateway.mirakl.net
+pcomponentes-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pcomponentes-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf-df-test-batch	86400	AWS	ALIAS	A perf-df-test-batch-27494903.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf-df-test-batch1	3600	IN	A	52.213.121.78
+perf-df-test-sql1	3600	IN	A	52.212.107.37
+perf-df-test-sql2	3600	IN	A	52.213.177.126
+perf-df-test-web1	3600	IN	A	52.19.237.21
+perf-df-test-web2	3600	IN	A	52.212.208.246
+perf-df-test	86400	AWS	ALIAS	A perf-df-test-mp-1652886969.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf-test-batch	86400	AWS	ALIAS	A dualstack.perf-test-batch-6517655.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf-test-batch1	3600	IN	A	52.51.182.7
+perf-test-sql1	3600	IN	A	52.208.139.170
+perf-test-sql2	3600	IN	A	52.17.122.96
+perf-test-web1	3600	IN	A	52.49.165.204
+perf-test-web2	3600	IN	A	52.51.226.216
+perf-test	86400	AWS	ALIAS	A dualstack.perf-test-mp-570219955.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf1-test-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf1-test	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf10-test-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf10-test	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf2-test-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf2-test	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf3-test-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf3-test	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf4-test-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf4-test	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf5-test-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf5-test	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf6-test-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf6-test	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf7-test-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf7-test	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf8-test-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf8-test	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf9-test-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+perf9-test	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pfsense	3600	IN	A	212.83.135.119
+pharmedistore-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pharmedistore-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pharmedistore-preprod-batch	86400	AWS	ALIAS	A pharmedistore-preprod-batch-1780060901.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pharmedistore-preprod-batch1	3600	IN	A	52.208.129.74
+pharmedistore-preprod-sql1	3600	IN	A	52.213.206.60
+pharmedistore-preprod-sql2	3600	IN	A	52.51.250.180
+pharmedistore-preprod-web1	3600	IN	A	52.213.7.193
+pharmedistore-preprod-web2	3600	IN	A	52.19.107.117
+pharmedistore-preprod	86400	AWS	ALIAS	A pharmedistore-preprod-mp-1897272017.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pharmedistore-prod-batch	86400	AWS	ALIAS	A pharmedistore-prod-batch-1280031165.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pharmedistore-prod-batch1	3600	IN	A	52.213.197.182
+pharmedistore-prod-sql1	3600	IN	A	52.30.71.208
+pharmedistore-prod-sql2	3600	IN	A	54.76.40.81
+pharmedistore-prod-web1	3600	IN	A	52.51.67.196
+pharmedistore-prod-web2	3600	IN	A	52.51.133.4
+pharmedistore-prod	86400	AWS	ALIAS	A pharmedistore-prod-mp-51627428.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+php1-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+php1-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+php2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+php2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+php3-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+php3-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+php4-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+php4-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+piou-test-batch	86400	AWS	ALIAS	A kube-dev-eu-1-worker-675571571.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+piou-test	86400	AWS	ALIAS	A kube-dev-eu-1-worker-675571571.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+plike-prod-batch	86400	AWS	ALIAS	A dualstack.plike-prod-batch-1150637921.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+plike-prod-batch1	3600	IN	A	52.31.159.11
+plike-prod-sql1	3600	IN	A	52.19.210.140
+plike-prod-sql2	3600	IN	A	52.50.157.213
+plike-prod-web1	3600	IN	A	52.51.74.13
+plike-prod-web2	3600	IN	A	52.51.70.8
+plike-prod	86400	AWS	ALIAS	A dualstack.plike-prod-mp-1624092781.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pmc-aws	3600	IN	A	52.208.215.82
+pmc-gce	3600	IN	A	104.155.85.197
+pmc-ovh	10800	IN	CNAME	gateway
+pmc-test	3600	IN	A	52.50.157.113
+po1-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+po1-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+po2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+po2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pouf-test-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pouf-test	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+presales-art-connectors	3600	IN	A	52.18.237.225
+presalesbd-demo-batch	10800	IN	CNAME	gateway
+presalesbd-demo	10800	IN	CNAME	gateway
+presalesgr-demo-batch	10800	IN	CNAME	gateway
+presalesgr-demo	10800	IN	CNAME	gateway
+prod-docs	3600	IN	A	104.155.39.236
+prod-web-console	3600	IN	A	178.33.182.42
+prod1472-test-docker-batch	3600	IN	A	104.155.86.91
+prod1472-test-docker	3600	IN	A	104.155.86.91
+prod2161-test-docker-batch	3600	IN	A	104.155.86.91
+prod2161-test-docker	3600	IN	A	104.155.86.91
+proute-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-worker-675571571.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+proute-dev	86400	AWS	ALIAS	A kube-dev-eu-1-worker-675571571.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+psql-anon	3600	IN	A	130.211.54.110
+pvl-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pvl-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pvl-preprod-batch	86400	AWS	ALIAS	A dualstack.pvl-preprod-batch-1600043008.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pvl-preprod-batch1	3600	IN	A	54.154.112.172
+pvl-preprod-sql1	3600	IN	A	52.30.117.228
+pvl-preprod-sql2	3600	IN	A	52.19.166.18
+pvl-preprod-web1	3600	IN	A	54.154.239.162
+pvl-preprod-web2	3600	IN	A	54.154.45.122
+pvl-preprod	86400	AWS	ALIAS	A dualstack.pvl-preprod-mp-1318521120.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pvl-prod-batch	86400	AWS	ALIAS	A dualstack.pvl-prod-batch-1204068632.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pvl-prod-batch1	3600	IN	A	54.194.51.157
+pvl-prod-sql1	3600	IN	A	34.249.8.216
+pvl-prod-sql2	3600	IN	A	34.249.58.232
+pvl-prod-web1	3600	IN	A	54.194.46.185
+pvl-prod-web2	3600	IN	A	54.171.244.133
+pvl-prod	86400	AWS	ALIAS	A dualstack.pvl-prod-mp-1811811572.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pvl2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pvl2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pvl2-preprod-batch	86400	AWS	ALIAS	A dualstack.pvl2-preprod-batch-1621139638.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pvl2-preprod-batch1	3600	IN	A	52.51.178.198
+pvl2-preprod-sql1	3600	IN	A	52.30.15.168
+pvl2-preprod-sql2	3600	IN	A	52.50.27.125
+pvl2-preprod-web1	3600	IN	A	52.50.169.42
+pvl2-preprod-web2	3600	IN	A	52.208.6.178
+pvl2-preprod	86400	AWS	ALIAS	A dualstack.pvl2-preprod-mp-1031959982.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pvl2-prod-batch	86400	AWS	ALIAS	A pvl2-prod-batch-1258530030.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pvl2-prod-batch1	3600	IN	A	34.253.82.217
+pvl2-prod-sql1	3600	IN	A	34.252.122.98
+pvl2-prod-sql2	3600	IN	A	52.211.137.243
+pvl2-prod-web1	3600	IN	A	52.19.15.13
+pvl2-prod-web2	3600	IN	A	52.213.170.54
+pvl2-prod	86400	AWS	ALIAS	A pvl2-prod-mp-137302176.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pvl2-recette-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+pvl2-recette	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+racktables	3600	IN	A	52.208.73.75
+rafikqatest-mmp-test-docker-batch	3600	IN	A	104.155.86.91
+rafikqatest-mmp-test-docker	3600	IN	A	104.155.86.91
+rafikqatest-test-docker	3600	IN	A	104.155.86.91
+randfreres-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+randfreres-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+recette.magento	3600	IN	CNAME	magento
+reliability1-test-batch	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+reliability1-test	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+renaudbray-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+renaudbray-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ricard-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ricard-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ricard-preprod-batch	86400	AWS	ALIAS	A dualstack.ricard-preprod-batch-1961479602.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ricard-preprod-batch1	3600	IN	A	52.31.13.226
+ricard-preprod-sql1	3600	IN	A	52.51.211.142
+ricard-preprod-sql2	3600	IN	A	52.50.30.83
+ricard-preprod-web1	3600	IN	A	52.30.225.224
+ricard-preprod-web2	3600	IN	A	52.19.224.156
+ricard-preprod	86400	AWS	ALIAS	A dualstack.ricard-preprod-mp-407644046.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ricard-prod-batch	86400	AWS	ALIAS	A dualstack.ricard-prod-batch-399913594.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ricard-prod-batch1	3600	IN	A	52.18.15.252
+ricard-prod-sql1	3600	IN	A	52.50.26.123
+ricard-prod-sql2	3600	IN	A	52.17.72.136
+ricard-prod-web1	3600	IN	A	52.50.70.66
+ricard-prod-web2	3600	IN	A	52.50.37.175
+ricard-prod	86400	AWS	ALIAS	A dualstack.ricard-prod-mp-2063780191.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ril-dev-batch	10800	IN	CNAME	gateway
+ril-dev	10800	IN	CNAME	gateway
+ripley-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ripley-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ripley-preprod-batch	86400	AWS	ALIAS	A dualstack.ripley-preprod-batch-876804884.sa-east-1.elb.amazonaws.com. Z2P70J7HTTTPLU false
+ripley-preprod-batch1	3600	IN	A	54.94.249.223
+ripley-preprod-sql1	3600	IN	A	54.233.115.47
+ripley-preprod-sql2	3600	IN	A	54.233.133.60
+ripley-preprod-web1	3600	IN	A	54.94.247.161
+ripley-preprod-web2	3600	IN	A	54.207.55.83
+ripley-preprod	86400	AWS	ALIAS	A dualstack.ripley-preprod-mp-771685060.sa-east-1.elb.amazonaws.com. Z2P70J7HTTTPLU false
+ripley-prod-batch	86400	AWS	ALIAS	A ripley-prod-batch-1861614577.sa-east-1.elb.amazonaws.com. Z2P70J7HTTTPLU false
+ripley-prod-batch1	3600	IN	A	52.67.103.220
+ripley-prod-sql1	3600	IN	A	52.67.151.25
+ripley-prod-sql2	3600	IN	A	52.67.129.187
+ripley-prod-web1	3600	IN	A	52.67.80.153
+ripley-prod-web2	3600	IN	A	52.67.127.148
+ripley-prod	86400	AWS	ALIAS	A ripley-prod-mp-655969108.sa-east-1.elb.amazonaws.com. Z2P70J7HTTTPLU false
+romain-test-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+romain-test	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+rourou666-dev-batch	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+rourou666-dev	86400	AWS	ALIAS	A kube-test-eu-1-node-1774682754.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+rtf-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+rtf-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+rtf-preprod-batch	86400	AWS	ALIAS	A dualstack.rtf-preprod-batch-1056382066.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+rtf-preprod-batch1	3600	IN	A	52.51.29.80
+rtf-preprod-sql1	3600	IN	A	52.48.30.96
+rtf-preprod-sql2	3600	IN	A	52.50.36.204
+rtf-preprod-web1	3600	IN	A	52.50.122.129
+rtf-preprod-web2	3600	IN	A	52.49.16.5
+rtf-preprod	86400	AWS	ALIAS	A dualstack.rtf-preprod-mp-1676782893.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+rtf-prod-batch	86400	AWS	ALIAS	A dualstack.rtf-prod-batch-2063498816.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+rtf-prod-batch1	3600	IN	A	52.30.213.43
+rtf-prod-sql1	3600	IN	A	52.51.23.140
+rtf-prod-sql2	3600	IN	A	34.250.19.176
+rtf-prod-web1	3600	IN	A	52.51.34.186
+rtf-prod-web2	3600	IN	A	52.19.179.88
+rtf-prod	86400	AWS	ALIAS	A dualstack.rtf-prod-mp-1896284889.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+rueducommerce-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+rueducommerce-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+rueducommerce-preprod-batch	86400	AWS	ALIAS	A dualstack.rueducommerce-preprod-batch-508762593.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+rueducommerce-preprod-batch1	3600	IN	A	52.50.211.40
+rueducommerce-preprod-sql1	3600	IN	A	52.48.192.66
+rueducommerce-preprod-sql2	3600	IN	A	52.211.220.22
+rueducommerce-preprod-web1	3600	IN	A	52.50.192.73
+rueducommerce-preprod-web2	3600	IN	A	52.50.163.215
+rueducommerce-preprod	86400	AWS	ALIAS	A dualstack.rueducommerce-preprod-mp-2091187973.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+rueducommerce-prod-batch	86400	AWS	ALIAS	A dualstack.rueducommerce-prod-batch-504771351.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+rueducommerce-prod-batch1	3600	IN	A	52.50.20.241
+rueducommerce-prod-sql1	3600	IN	A	52.48.147.13
+rueducommerce-prod-sql2	3600	IN	A	52.31.37.145
+rueducommerce-prod-web1	3600	IN	A	52.31.227.77
+rueducommerce-prod-web2	3600	IN	A	52.51.6.143
+rueducommerce-prod	86400	AWS	ALIAS	A dualstack.rueducommerce-prod-mp-1936729447.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+sandbox.magento	3600	IN	CNAME	magento
+sapb2b-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+sapb2b-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+sarenza-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+sarenza-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+satis-host	3600	IN	A	52.212.155.251
+satis	86400	AWS	ALIAS	A tools-dev-satis-elb-816166579.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+sdk-front-satis	86400	AWS	ALIAS	A tools-dev-satis-elb-816166579.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+sdk-operator-satis	86400	AWS	ALIAS	A tools-dev-satis-elb-816166579.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+sdk-shop-satis	86400	AWS	ALIAS	A tools-dev-satis-elb-816166579.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+secretsales-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+secretsales-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+secretsales-prod-batch	86400	AWS	ALIAS	A secretsales-prod-batch-1433097289.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+secretsales-prod-batch1	3600	IN	A	52.209.112.85
+secretsales-prod-sql1	3600	IN	A	52.210.75.67
+secretsales-prod-sql2	3600	IN	A	52.210.88.240
+secretsales-prod-web1	3600	IN	A	52.51.141.239
+secretsales-prod-web2	3600	IN	A	52.48.5.227
+secretsales-prod	86400	AWS	ALIAS	A secretsales-prod-mp-1208619230.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+setup-exercice-test-docker-batch	3600	IN	A	104.155.86.91
+setup-exercice-test-docker	3600	IN	A	104.155.86.91
+setup-preprod-batch	3600	IN	A	128.204.213.68
+setup-preprod	3600	IN	A	128.204.213.67
+setup.magento	3600	IN	CNAME	magento
+shoes-dev-batch	3600	IN	CNAME	gateway.mirakl.net
+shoes-dev	3600	IN	CNAME	gateway
+shopto-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+shopto-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+shopto-prod-batch	86400	AWS	ALIAS	A shopto-prod-batch-1622539014.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+shopto-prod-batch1	3600	IN	A	52.208.187.73
+shopto-prod-sql1	3600	IN	A	52.48.45.132
+shopto-prod-sql2	3600	IN	A	52.211.78.253
+shopto-prod-web1	3600	IN	A	52.208.79.90
+shopto-prod-web2	3600	IN	A	52.210.14.188
+shopto-prod	86400	AWS	ALIAS	A shopto-prod-mp-1148374451.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+simon-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+simon-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+simonproperty-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+simonproperty-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+simonproperty2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+simonproperty2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+sip	10800	IN	A	178.33.182.38
+smile-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+smile-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+sonar	3600	IN	A	104.155.52.134
+sprint-mps-batch	3600	IN	A	107.178.250.127
+sprint-mps-dev-batch	3600	IN	A	107.178.250.127
+sprint-mps-dev	3600	IN	A	107.178.242.70
+sprint-mps	3600	IN	A	107.178.242.70
+sprint-qw-dev-batch	3600	IN	A	107.178.250.127
+sprint-qw-dev	3600	IN	A	107.178.242.70
+squashtm	3600	IN	A	52.51.193.236
+sre-test-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+sre-test	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+steals-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+steals-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+steals-prod-batch	86400	AWS	ALIAS	A steals-prod-batch-781001421.us-east-1.elb.amazonaws.com. Z35SXDOTRQ7X7K false
+steals-prod-batch1	3600	IN	A	34.193.51.240
+steals-prod-sql1	3600	IN	A	54.209.208.243
+steals-prod-sql2	3600	IN	A	52.90.216.208
+steals-prod-web1	3600	IN	A	34.193.97.89
+steals-prod-web2	3600	IN	A	34.192.221.218
+steals-prod	86400	AWS	ALIAS	A steals-prod-mp-340932087.us-east-1.elb.amazonaws.com. Z35SXDOTRQ7X7K false
+stephane-test	3600	IN	A	52.50.53.69
+support	1800	IN	CNAME	atlassian
+support1-test-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+support1-test	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+support2-test-batch	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+support2-test	86400	AWS	ALIAS	A kube-int-eu-1-node-1932609254.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+support3-recette-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+support3-recette	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+swarovski-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+swarovski-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+tech-writers-test-docker-batch	3600	IN	A	104.155.86.91
+tech-writers-test-docker	3600	IN	A	104.155.86.91
+test-crowd	3600	IN	A	52.50.100.91
+test-magento2-connectors	3600	IN	A	52.18.237.225
+test-pimgento-connectors	3600	IN	A	52.18.237.225
+test-prod-batch	10800	IN	A	5.8.180.87
+test-prod	10800	IN	A	5.8.180.87
+test.magento	3600	IN	CNAME	magento
+test	60	IN	CNAME	gateway.mirakl.net
+testjiramig	3600	IN	A	52.208.74.11
+testlink	10800	IN	CNAME	gateway
+thibault-test-docker-batch	3600	IN	A	104.155.86.91
+thibault-test-docker	3600	IN	A	104.155.86.91
+thibault2-test-docker-batch	3600	IN	A	104.155.86.91
+thibault2-test-docker	3600	IN	A	104.155.86.91
+tieto-test-docker-batch	3600	IN	A	104.155.86.91
+tieto-test-docker	3600	IN	A	104.155.86.91
+tools	10800	IN	A	212.83.168.19
+tru-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+tru-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+tru-prod-batch	86400	AWS	ALIAS	A dualstack.tru-prod-batch-182973325.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+tru-prod-batch1	3600	IN	A	52.17.238.127
+tru-prod-sql1	3600	IN	A	54.76.92.42
+tru-prod-sql2	3600	IN	A	54.76.91.193
+tru-prod-web1	3600	IN	A	54.76.126.40
+tru-prod-web2	3600	IN	A	54.76.159.216
+tru-prod	86400	AWS	ALIAS	A dualstack.tru-prod-mp-1146427012.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+twi-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+twi-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+twi-preprod-batch	86400	AWS	ALIAS	A dualstack.twi-preprod-batch-1912277275.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+twi-preprod-batch1	3600	IN	A	52.17.145.251
+twi-preprod-sql1	3600	IN	A	52.17.148.135
+twi-preprod-sql2	3600	IN	A	52.17.148.142
+twi-preprod-web1	3600	IN	A	52.17.147.144
+twi-preprod-web2	3600	IN	A	52.16.251.67
+twi-preprod	86400	AWS	ALIAS	A dualstack.twi-preprod-mp-134035371.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+twi-prod-batch	86400	AWS	ALIAS	A dualstack.twi-prod-batch-720699726.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+twi-prod-batch1	3600	IN	A	52.17.154.23
+twi-prod-sql1	3600	IN	A	52.17.100.182
+twi-prod-sql2	3600	IN	A	52.17.102.146
+twi-prod-web1	3600	IN	A	52.17.36.183
+twi-prod-web2	3600	IN	A	52.17.154.83
+twi-prod	86400	AWS	ALIAS	A dualstack.twi-prod-mp-1414798272.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+twi2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+twi2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ubaldi-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ubaldi-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+upela-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+upela-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+upsource	3600	IN	A	104.155.6.64
+urbanoutfitters-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+urbanoutfitters-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+urbanoutfitters2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+urbanoutfitters2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+urbanoutfitters3-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+urbanoutfitters3-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+us-demo-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+us-demo	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ux-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+ux-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vandenborre-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vandenborre-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vandenborre-preprod-batch	86400	AWS	ALIAS	A dualstack.vandenborre-preprod-batch-571604990.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vandenborre-preprod-batch1	3600	IN	A	52.50.166.151
+vandenborre-preprod-sql1	3600	IN	A	52.49.123.65
+vandenborre-preprod-sql2	3600	IN	A	52.50.188.249
+vandenborre-preprod-web1	3600	IN	A	52.50.195.123
+vandenborre-preprod-web2	3600	IN	A	52.50.195.181
+vandenborre-preprod	86400	AWS	ALIAS	A dualstack.vandenborre-preprod-mp-200353914.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vandenborre-prod-batch	86400	AWS	ALIAS	A dualstack.vandenborre-prod-batch-530048964.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vandenborre-prod-batch1	3600	IN	A	52.16.143.201
+vandenborre-prod-sql1	3600	IN	A	52.19.101.34
+vandenborre-prod-sql2	3600	IN	A	52.48.3.22
+vandenborre-prod-web1	3600	IN	A	52.17.82.58
+vandenborre-prod-web2	3600	IN	A	52.50.197.47
+vandenborre-prod	86400	AWS	ALIAS	A dualstack.vandenborre-prod-mp-85710708.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vault	3600	IN	A	52.51.152.112
+vault0	3600	IN	A	52.212.50.34
+vault1	3600	IN	A	52.19.73.16
+vault2	3600	IN	A	52.212.51.44
+vente-privee-connectors	3600	IN	A	52.18.237.225
+vente-privee-magento-connectors	3600	IN	A	52.18.237.225
+vente-privee-test-docker-batch	3600	IN	A	104.155.86.91
+vente-privee-test-docker	3600	IN	A	104.155.86.91
+vente-test-docker-batch	3600	IN	A	104.155.86.91
+vente-test-docker	3600	IN	A	104.155.86.91
+vente2-test-docker-batch	3600	IN	A	104.155.86.91
+vente2-test-docker	3600	IN	A	104.155.86.91
+vidaxl-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vidaxl-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vidaxl-preprod-batch	86400	AWS	ALIAS	A dualstack.vidaxl-preprod-batch-889605.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vidaxl-preprod-batch1	3600	IN	A	52.208.226.15
+vidaxl-preprod-sql1	3600	IN	A	52.208.252.251
+vidaxl-preprod-sql2	3600	IN	A	52.50.186.186
+vidaxl-preprod-web1	3600	IN	A	52.209.169.92
+vidaxl-preprod-web2	3600	IN	A	52.209.154.78
+vidaxl-preprod	86400	AWS	ALIAS	A dualstack.vidaxl-preprod-mp-1891526742.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vidaxl-prod-batch	86400	AWS	ALIAS	A vidaxl-prod-batch-1431271653.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vidaxl-prod-batch1	3600	IN	A	52.210.167.204
+vidaxl-prod-sql1	3600	IN	A	52.30.122.182
+vidaxl-prod-sql2	3600	IN	A	52.210.58.223
+vidaxl-prod-web1	3600	IN	A	52.210.168.38
+vidaxl-prod-web2	3600	IN	A	52.210.169.129
+vidaxl-prod	86400	AWS	ALIAS	A vidaxl-prod-mp-1357505867.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vidaxl-qas-batch	86400	AWS	ALIAS	A dualstack.kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vidaxl-qas	86400	AWS	ALIAS	A dualstack.kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vidaxl2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+vidaxl2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+viparis-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+viparis-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+viparis-preprod-batch	86400	AWS	ALIAS	A viparis-preprod-batch-2078593050.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+viparis-preprod-batch1	3600	IN	A	34.251.148.20
+viparis-preprod-sql1	3600	IN	A	52.208.20.168
+viparis-preprod-sql2	3600	IN	A	52.214.35.13
+viparis-preprod-web1	3600	IN	A	34.250.165.63
+viparis-preprod-web2	3600	IN	A	34.250.176.184
+viparis-preprod	86400	AWS	ALIAS	A viparis-preprod-mp-793715179.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+viprais-dev-batch	3600	IN	CNAME	gateway
+vpn	10800	IN	A	212.83.135.119
+walmartmx-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+walmartmx-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+walmartmx-prod-batch	60	IN	A	35.190.174.36 ; AWS routing="FAILOVER" failover="SECONDARY" healthCheckId="42e61d91-e7cd-485d-ae65-542eecfcf666" identifier="walmartmx-prod-batch-SECONDARY"
+walmartmx-prod-batch	60	IN	A	35.190.145.50 ; AWS routing="FAILOVER" failover="PRIMARY" healthCheckId="6acc88be-7662-450b-abc5-8c949b3c6f08" identifier="walmartmx-prod-batch-PRIMARY"
+walmartmx-prod-batch1	3600	IN	A	35.190.176.198
+walmartmx-prod-haproxy1	3600	IN	A	35.190.145.50
+walmartmx-prod-haproxy2	3600	IN	A	35.190.174.36
+walmartmx-prod-sql1	3600	IN	A	35.185.37.52
+walmartmx-prod-sql2	3600	IN	A	35.190.184.60
+walmartmx-prod-web1	3600	IN	A	35.190.161.97
+walmartmx-prod-web2	3600	IN	A	35.190.154.170
+walmartmx-prod	60	IN	A	35.190.145.50 ; AWS routing="FAILOVER" failover="PRIMARY" healthCheckId="6acc88be-7662-450b-abc5-8c949b3c6f08" identifier="walmartmx-prod-web-PRIMARY"
+walmartmx-prod	60	IN	A	35.190.174.36 ; AWS routing="FAILOVER" failover="SECONDARY" healthCheckId="42e61d91-e7cd-485d-ae65-542eecfcf666" identifier="walmartmx-prod-web-SECONDARY"
+walmartmx2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+walmartmx2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+webhelp-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+webhelp-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+wiki	60	IN	A	52.50.100.91
+william-test-docker-batch	3600	IN	A	104.155.86.91
+william-test-docker	3600	IN	A	104.155.86.91
+windaube	3600	IN	A	52.211.157.175
+worten-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+worten-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+worten-prod-batch	86400	AWS	ALIAS	A worten-prod-batch-1039892687.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+worten-prod-batch1	3600	IN	A	52.50.238.133
+worten-prod-sql1	3600	IN	A	34.253.89.56
+worten-prod-sql2	3600	IN	A	52.209.115.182
+worten-prod-web1	3600	IN	A	34.248.194.35
+worten-prod-web2	3600	IN	A	52.211.94.253
+worten-prod	86400	AWS	ALIAS	A worten-prod-mp-1438662689.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+wow-dev-batch	10800	IN	A	54.252.166.14
+wow-dev	86400	AWS	ALIAS	A dualstack.wow-dev-43411334.ap-southeast-2.elb.amazonaws.com. Z1GM3OXH4ZPM65 false
+wow-preprod-batch	86400	AWS	ALIAS	A dualstack.wow1-preprod-batch-64816686.ap-southeast-2.elb.amazonaws.com. Z1GM3OXH4ZPM65 false
+wow-preprod	86400	AWS	ALIAS	A dualstack.wow1-preprod-mp-1873023533.ap-southeast-2.elb.amazonaws.com. Z1GM3OXH4ZPM65 false
+wow-prod-batch1	3600	IN	A	54.79.107.202
+wow-prod-sql1	3600	IN	A	54.79.3.122
+wow-prod-sql2	3600	IN	A	54.79.66.117
+wow-prod-web1	3600	IN	A	54.79.123.131
+wow-prod-web2	3600	IN	A	54.79.89.220
+wow-uat-batch	300	IN	A	52.64.2.105
+wow-uat	3600	IN	A	52.64.2.105
+wow1-preprod-batch	86400	AWS	ALIAS	A dualstack.wow1-preprod-batch-64816686.ap-southeast-2.elb.amazonaws.com. Z1GM3OXH4ZPM65 false
+wow1-preprod-batch1	3600	IN	A	54.153.198.108
+wow1-preprod-sql1	3600	IN	A	54.153.220.7
+wow1-preprod-sql2	3600	IN	A	54.153.222.176
+wow1-preprod-web1	3600	IN	A	54.153.198.193
+wow1-preprod-web2	3600	IN	A	54.153.202.73
+wow1-preprod	86400	AWS	ALIAS	A dualstack.wow1-preprod-mp-1873023533.ap-southeast-2.elb.amazonaws.com. Z1GM3OXH4ZPM65 false
+wow1-prod-batch	86400	AWS	ALIAS	A dualstack.wow1-prod-batch-1568327449.ap-southeast-2.elb.amazonaws.com. Z1GM3OXH4ZPM65 false
+wow1-prod-batch1	3600	IN	A	54.66.175.81
+wow1-prod-sql1	3600	IN	A	52.64.47.19
+wow1-prod-sql2	3600	IN	A	13.54.208.211
+wow1-prod-web1	3600	IN	A	54.66.174.13
+wow1-prod-web2	3600	IN	A	54.66.175.2
+wow1-prod	86400	AWS	ALIAS	A dualstack.wow1-prod-mp-1436415831.ap-southeast-2.elb.amazonaws.com. Z1GM3OXH4ZPM65 false
+wow2-preprod-batch	86400	AWS	ALIAS	A wow2-preprod-batch-682065327.ap-southeast-2.elb.amazonaws.com. Z1GM3OXH4ZPM65 false
+wow2-preprod-batch1	3600	IN	A	52.63.193.47
+wow2-preprod-sql1	3600	IN	A	13.54.156.92
+wow2-preprod-sql2	3600	IN	A	52.63.10.154
+wow2-preprod-web1	3600	IN	A	52.64.92.216
+wow2-preprod-web2	3600	IN	A	52.63.34.204
+wow2-preprod	86400	AWS	ALIAS	A wow2-preprod-mp-379567215.ap-southeast-2.elb.amazonaws.com. Z1GM3OXH4ZPM65 false
+wow3-dev-batch	10800	IN	A	54.66.230.192
+wow3-dev	10800	IN	A	54.66.230.192
+wow4-dev-batch	3600	IN	A	52.64.2.105
+wowes-dev-batch	3600	IN	A	52.64.103.131
+wowes-dev	3600	IN	A	52.64.103.131
+wupti-prod-batch	86400	AWS	ALIAS	A wupti-prod-batch-321079160.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+wupti-prod-batch1	3600	IN	A	34.250.60.30
+wupti-prod-sql1	3600	IN	A	34.250.151.127
+wupti-prod-sql2	3600	IN	A	34.248.68.134
+wupti-prod-web1	3600	IN	A	34.249.240.254
+wupti-prod-web2	3600	IN	A	34.248.241.69
+wupti-prod	86400	AWS	ALIAS	A wupti-prod-mp-1720320894.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+wupti1-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+wupti1-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+wupti2-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+wupti2-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+www	10800	IN	CNAME	webredir.vip.gandi.net.
+zensar-dev-batch	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
+zensar-dev	86400	AWS	ALIAS	A kube-dev-eu-1-node-1001782691.eu-west-1.elb.amazonaws.com. Z32O12XQLNTSW2 false
