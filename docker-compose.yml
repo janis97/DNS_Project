@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+    mysql:
+         restart: always
+         container_name: container_SQL
+         image: dns-mysql
+         environment:
+             MYSQL_ROOT_PASSWORD: root
+             MYSQL_DATABASE: DNS_Project
+             MYSQL_USER: janis
+             MYSQL_PASSWORD: root
