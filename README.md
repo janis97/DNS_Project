@@ -12,16 +12,9 @@ The first objective of this project is to list DNS records that could deleted.
 So if you need to use this project, you must to follow these small recommendations:
 
  - Create a new image based on MYSQL and which will contain your schemas SQL (create_table.sql and insert.sql)  ``` docker build -t dns-mysql . ```
- - After that, open the docker-compose's file and modify some informations
- 
- ``` environment:
-            MYSQL_ROOT_PASSWORD: ROOT_PASSWORD
-            ...
-            MYSQL_USER: DB_USER
-            MYSQL_PASSWORD: USER_PASSWORD
- ```
- 
+
  - Run the docker-compose in order to create a container SQL based on the new image dns_mysql ``` docker-compose up -d ```
+
  - Last step, don't forget to run the container SQL with the command line ``` docker exec -it container_SQL mysql -p ``` 
 
 #### USE
