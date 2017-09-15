@@ -7,5 +7,3 @@ mysql --user=$DB_USER --password=$DB_PASS DNS_Project<<EOF
 INSERT INTO domain (\`name\`) VALUES ("mirakl.net");
 
 EOF
-
-
