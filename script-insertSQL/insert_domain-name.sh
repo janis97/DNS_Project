@@ -1,9 +1,11 @@
 #!/bin/bash
 
-mysql --user=$DB_USER --password=$DB_PASSWD $DB_NAME<<EOF
+#This script allows to insert the domain name into table domain.
 
-USE DNS_Project;
+mysql --user=$DB_USER --password=$DB_PASS DNS_Project<<EOF
 
 INSERT INTO domain (\`name\`) VALUES ("mirakl.net");
 
 EOF
+
+
