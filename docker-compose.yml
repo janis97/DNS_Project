@@ -8,5 +8,5 @@ services:
          environment:
              MYSQL_ROOT_PASSWORD: root
              MYSQL_DATABASE: DNS_Project
-             MYSQL_USER: janis
-             MYSQL_PASSWORD: root
+             MYSQL_USER: DB_USER
+             MYSQL_PASSWORD: DB_PASSWD
